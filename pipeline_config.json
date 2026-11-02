@@ -1,0 +1,32 @@
+{
+  "data_directory": "data/moneycontrol",
+  "publish_directory": null,
+  "interval_minutes": 1440,
+  "request_gap_seconds": 1.5,
+  "timeout_seconds": 25,
+  "max_attempts": 3,
+  "max_pages": 100,
+  "page_size": 21,
+  "scope": "current_nifty500",
+  "moneycontrol_index_id": "7",
+  "feed_index_id": "N",
+  "member_url": "https://www.niftyindices.com/IndexConstituent/ind_nifty500list.csv",
+  "reference_cache_hours": 24,
+  "user_agent": "IndianEarningsResearch/0.1 (personal academic research)",
+  "feeds": [
+    "actual",
+    "high",
+    "low"
+  ],
+  "quality_controls": [
+    {
+      "company_id": "SPI",
+      "period_end": "2026-09-30",
+      "metric": "net_profit",
+      "reference_value": "1988.53",
+      "tolerance": "1",
+      "source": "https://sunpharma.com/wp-content/uploads/2026/10/Press-Release-Sun-Pharma-Q2FY27-Financial-Result.pdf",
+      "note": "Reported company net profit; the comparison card may use a different, undocumented earnings basis. Preserve its value and flag the discrepancy."
+    }
+  ]
+}
