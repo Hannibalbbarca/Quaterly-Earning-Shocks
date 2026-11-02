@@ -11,7 +11,7 @@
   "moneycontrol_index_id": "7",
   "feed_index_id": "N",
   "member_url": "https://www.niftyindices.com/IndexConstituent/ind_nifty500list.csv",
-  "reference_cache_hours": 24,
+  "reference_cache_hours": 6,
   "user_agent": "IndianEarningsResearch/0.1 (personal academic research)",
   "feeds": [
     "actual",
