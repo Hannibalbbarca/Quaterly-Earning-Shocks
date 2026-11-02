@@ -1,0 +1,68 @@
+{
+  "exported_at_utc": "2026-11-02T16:22:17.556229+00:00",
+  "records": [
+    {
+      "actual": "2754",
+      "company_id": "SPI",
+      "company_name": "Sun Pharma",
+      "displayed_values_surprise_pct": "-12.765283",
+      "entity_key": "SPI|N|Consolidated|2026-09-30|net_profit|reported_comparison",
+      "estimate": "3157",
+      "estimate_asof": null,
+      "exchange": "N",
+      "financial_basis": "Consolidated",
+      "fiscal_quarter_source": "Q2 FY26-27",
+      "identifier_match_method": "exact_unique_company_name",
+      "industry": "Healthcare",
+      "isin": "INE044A01036",
+      "membership_reference_collected_at": "2026-11-02T16:14:21.975710+00:00",
+      "metric": "net_profit",
+      "nse_symbol": "SUNPHARMA",
+      "observation_kind": "reported_comparison",
+      "period_end": "2026-09-30",
+      "prior_year_actual": null,
+      "quality_flags": [
+        "SOURCE_DISPLAY_PRECISION",
+        "ESTIMATE_ASOF_NOT_SUPPLIED",
+        "EARNINGS_ADJUSTMENT_BASIS_UNVERIFIED",
+        "SOURCE_EVENT_TIME_UNVERIFIED",
+        "COMPANY_RELEASE_ACTUAL_MISMATCH"
+      ],
+      "raw_metric_cells": [
+        "Net Profit",
+        "2,754",
+        "3,157"
+      ],
+      "source_date_kind": "DISPLAYED_DATE_NOT_VERIFIED_RELEASE_TIMESTAMP",
+      "source_displayed_event_date": "2026-10-30",
+      "source_estimated_yoy_growth_pct": null,
+      "source_expectation_label": "Missed Expectations",
+      "source_expectation_pct": "-12.76",
+      "source_label_metric": "NOT_SPECIFIED_DO_NOT_ASSUME_EPS",
+      "source_page": "https://www.moneycontrol.com/markets/earnings/estimates/",
+      "source_table_headers": [
+        "Q2 FY26-27",
+        "Sep 26",
+        "Estimates"
+      ],
+      "source_view": "actual",
+      "timing_status": "POST_RESULT_COMPARISON_NOT_A_PRE_RELEASE_SNAPSHOT",
+      "unit": "INR_crore",
+      "universe": "NIFTY500_CURRENT_AT_REFERENCE_COLLECTION",
+      "validation_references": [
+        {
+          "company_id": "SPI",
+          "metric": "net_profit",
+          "note": "Reported company net profit; the comparison card may use a different, undocumented earnings basis. Preserve its value and flag the discrepancy.",
+          "period_end": "2026-09-30",
+          "reference_value": "1988.53",
+          "source": "https://sunpharma.com/wp-content/uploads/2026/10/Press-Release-Sun-Pharma-Q2FY27-Financial-Result.pdf",
+          "tolerance": "1"
+        }
+      ],
+      "collected_at_utc": "2026-11-02T16:16:35.538217+00:00",
+      "run_id": "f4ab69adf94d48e6895cc8dafa489de2",
+      "seen_in_latest_run": true
+    }
+  ]
+}
