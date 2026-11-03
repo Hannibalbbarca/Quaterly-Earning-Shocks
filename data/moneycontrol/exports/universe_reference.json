@@ -56,16 +56,16 @@
       "source_name": "Jubilant Pharmova"
     },
     {
-      "company_id": "IL06",
-      "isin": "INE065X01017",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Indegene"
-    },
-    {
       "company_id": "HSA01",
       "isin": "INE462A01022",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Bayer CropScience"
+    },
+    {
+      "company_id": "IL06",
+      "isin": "INE065X01017",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Indegene"
     },
     {
       "company_id": "DCM02",
@@ -134,16 +134,16 @@
       "source_name": "Blue Jet Healthcare"
     },
     {
-      "company_id": "NST01",
-      "isin": "INE619B01017",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Newgen Software Technologies"
-    },
-    {
       "company_id": "SS42",
       "isin": "INE269A01021",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Sonata Software"
+    },
+    {
+      "company_id": "NST01",
+      "isin": "INE619B01017",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Newgen Software Technologies"
     },
     {
       "company_id": "SFI05",
@@ -170,7 +170,7 @@
       "source_name": "Latent View Analytics"
     }
   ],
-  "fetched_at": "2026-11-02T16:14:21.975710+00:00",
+  "fetched_at": "2026-11-03T10:30:06.183659+00:00",
   "identifiers": {
     "A06": {
       "company_name": "Atul Ltd.",
@@ -295,7 +295,7 @@
       "company_name": "Apollo Hospitals Enterprise Ltd.",
       "industry": "Healthcare",
       "isin": "INE437A01024",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "APOLLOHOSP"
     },
     "AHFL": {
@@ -344,7 +344,7 @@
       "company_name": "Authum Investment & Infrastructure Ltd.",
       "industry": "Financial Services",
       "isin": "INE206F01022",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "AIIL"
     },
     "AIL08": {
@@ -400,7 +400,7 @@
       "company_name": "Ajanta Pharmaceuticals Ltd.",
       "industry": "Healthcare",
       "isin": "INE031B01049",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "AJANTPHARM"
     },
     "AP26": {
@@ -813,7 +813,7 @@
       "company_name": "CCL Products (I) Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "isin": "INE421D01022",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "CCL"
     },
     "CCI": {
@@ -827,7 +827,7 @@
       "company_name": "Central Depository Services (India) Ltd.",
       "industry": "Financial Services",
       "isin": "INE736A01011",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "CDSL"
     },
     "CEB": {
@@ -855,7 +855,7 @@
       "company_name": "Chambal Fertilizers & Chemicals Ltd.",
       "industry": "Chemicals",
       "isin": "INE085A01013",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "CHAMBLFERT"
     },
     "CFH": {
@@ -890,7 +890,7 @@
       "company_name": "Crompton Greaves Consumer Electricals Ltd.",
       "industry": "Consumer Durables",
       "isin": "INE299U01018",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "CROMPTON"
     },
     "CHC": {
@@ -1023,7 +1023,7 @@
       "company_name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
       "industry": "Chemicals",
       "isin": "INE501A01019",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "DEEPAKFERT"
     },
     "DI": {
@@ -1093,7 +1093,7 @@
       "company_name": "Dixon Technologies (India) Ltd.",
       "industry": "Consumer Durables",
       "isin": "INE935N01020",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "DIXON"
     },
     "E": {
@@ -1121,7 +1121,7 @@
       "company_name": "Elecon Engineering Co. Ltd.",
       "industry": "Capital Goods",
       "isin": "INE205B01031",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "ELECON"
     },
     "EI": {
@@ -1219,7 +1219,7 @@
       "company_name": "FSN E-Commerce Ventures Ltd.",
       "industry": "Consumer Services",
       "isin": "INE388Y01029",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "NYKAA"
     },
     "FH": {
@@ -1233,7 +1233,7 @@
       "company_name": "Zensar Technolgies Ltd.",
       "industry": "Information Technology",
       "isin": "INE520A01027",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "ZENSARTECH"
     },
     "FPB": {
@@ -1275,14 +1275,14 @@
       "company_name": "GE Vernova T&D India Ltd.",
       "industry": "Capital Goods",
       "isin": "INE200A01026",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "GVT&D"
     },
     "GES": {
       "company_name": "Great Eastern Shipping Co. Ltd.",
       "industry": "Services",
       "isin": "INE017A01032",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "GESHIP"
     },
     "GH03": {
@@ -1366,7 +1366,7 @@
       "company_name": "Glenmark Pharmaceuticals Ltd.",
       "industry": "Healthcare",
       "isin": "INE935A01035",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "GLENMARK"
     },
     "GP11": {
@@ -1681,7 +1681,7 @@
       "company_name": "Indian Hotels Co. Ltd.",
       "industry": "Consumer Services",
       "isin": "INE053A01029",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "INDHOTEL"
     },
     "IHF01": {
@@ -1793,7 +1793,7 @@
       "company_name": "Indian Railway Catering And Tourism Corporation Ltd.",
       "industry": "Consumer Services",
       "isin": "INE335Y01020",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "IRCTC"
     },
     "IREDAL": {
@@ -2017,7 +2017,7 @@
       "company_name": "Kirloskar Oil Eng Ltd.",
       "industry": "Capital Goods",
       "isin": "INE146L01010",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "KIRLOSENG"
     },
     "KP": {
@@ -2157,7 +2157,7 @@
       "company_name": "L&T Technology Services Ltd.",
       "industry": "Information Technology",
       "isin": "INE010V01017",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "LTTS"
     },
     "M09": {
@@ -2206,7 +2206,7 @@
       "company_name": "Mazagoan Dock Shipbuilders Ltd.",
       "industry": "Capital Goods",
       "isin": "INE249Z01020",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "MAZDOCK"
     },
     "MF19": {
@@ -2381,7 +2381,7 @@
       "company_name": "National Aluminium Co. Ltd.",
       "industry": "Metals & Mining",
       "isin": "INE139A01034",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "NATIONALUM"
     },
     "NBC": {
@@ -2430,7 +2430,7 @@
       "company_name": "The New India Assurance Company Ltd.",
       "industry": "Financial Services",
       "isin": "INE470Y01017",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "NIACL"
     },
     "NII02": {
@@ -2507,7 +2507,7 @@
       "company_name": "One 97 Communications Ltd.",
       "industry": "Financial Services",
       "isin": "INE982J01020",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "PAYTM"
     },
     "OCL": {
@@ -2878,7 +2878,7 @@
       "company_name": "Shree Cement Ltd.",
       "industry": "Construction Materials",
       "isin": "INE070A01015",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "SHREECEM"
     },
     "SCI": {
@@ -3081,7 +3081,7 @@
       "company_name": "Sumitomo Chemical India Ltd.",
       "industry": "Chemicals",
       "isin": "INE258G01013",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "SUMICHEM"
     },
     "T": {
@@ -3144,7 +3144,7 @@
       "company_name": "Honeywell Automation India Ltd.",
       "industry": "Capital Goods",
       "isin": "INE671A01010",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "HONAUT"
     },
     "THC": {
@@ -3235,7 +3235,7 @@
       "company_name": "Tata Power Co. Ltd.",
       "industry": "Power",
       "isin": "INE245A01021",
-      "method": "provider_isin_join_official_members",
+      "method": "cached_verified_isin",
       "symbol": "TATAPOWER"
     },
     "TRI": {

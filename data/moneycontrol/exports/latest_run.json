@@ -1,41 +1,41 @@
 {
-  "run_id": "b1b139a1366c4433861077e8fe593fe2",
+  "run_id": "7135068091e24e95be156a67d4330a8d",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-02T16:23:16.223094+00:00",
+  "started_at_utc": "2026-11-03T10:30:05.712888+00:00",
   "status": "success",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
-      "pages": 13,
-      "source_cards": 263,
-      "metrics_stored": 528,
-      "new_versions": 0,
-      "excluded_out_of_scope": 261,
+      "pages": 14,
+      "source_cards": 285,
+      "metrics_stored": 552,
+      "new_versions": 28,
+      "excluded_out_of_scope": 303,
       "quarantined": 0,
-      "companies_stored": 176
+      "companies_stored": 184
     },
     {
       "feed": "high",
       "status": "success",
-      "pages": 10,
-      "source_cards": 199,
-      "metrics_stored": 95,
-      "new_versions": 0,
-      "excluded_out_of_scope": 104,
+      "pages": 8,
+      "source_cards": 164,
+      "metrics_stored": 84,
+      "new_versions": 17,
+      "excluded_out_of_scope": 80,
       "quarantined": 0,
-      "companies_stored": 95
+      "companies_stored": 84
     },
     {
       "feed": "low",
       "status": "success",
       "pages": 3,
-      "source_cards": 55,
-      "metrics_stored": 31,
-      "new_versions": 0,
-      "excluded_out_of_scope": 24,
+      "source_cards": 47,
+      "metrics_stored": 26,
+      "new_versions": 7,
+      "excluded_out_of_scope": 21,
       "quarantined": 0,
-      "companies_stored": 31
+      "companies_stored": 26
     }
   ],
   "errors": [],
@@ -48,171 +48,171 @@
   "excluded_reference_identifiers": [
     {
       "company_id": "JBC",
+      "source_name": "JB Chemicals and Pharmaceuticals",
       "isin": "INE572A01036",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "JB Chemicals and Pharmaceuticals"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "B3M",
+      "source_name": "3M India",
       "isin": "INE470A01017",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "3M India"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "GDGIL",
+      "source_name": "Go Digit General Insurance",
       "isin": "INE03JT01014",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Go Digit General Insurance"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "SBL04",
+      "source_name": "Leela Palaces Hotels & Resorts",
       "isin": "INE0AQ201015",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Leela Palaces Hotels & Resorts"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "CH03",
+      "source_name": "Chalet Hotels",
       "isin": "INE427F01016",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Chalet Hotels"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "P",
+      "source_name": "Pfizer",
       "isin": "INE182A01018",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Pfizer"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "EL01",
+      "source_name": "Eris Lifesciences",
       "isin": "INE406M01024",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Eris Lifesciences"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "TFS02",
+      "source_name": "Travel Food Services",
       "isin": "INE103V01028",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Travel Food Services"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "VOC",
+      "source_name": "Jubilant Pharmova",
       "isin": "INE700A01033",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Jubilant Pharmova"
-    },
-    {
-      "company_id": "IL06",
-      "isin": "INE065X01017",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Indegene"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "HSA01",
+      "source_name": "Bayer CropScience",
       "isin": "INE462A01022",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Bayer CropScience"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "IL06",
+      "source_name": "Indegene",
+      "isin": "INE065X01017",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "DCM02",
+      "source_name": "DCM Shriram",
       "isin": "INE499A01024",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "DCM Shriram"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "NBH",
+      "source_name": "Niva Bupa Health Insurance Company",
       "isin": "INE995S01015",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Niva Bupa Health Insurance Company"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "SP",
+      "source_name": "Supreme Petrochem",
       "isin": "INE663A01033",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Supreme Petrochem"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "ICI",
+      "source_name": "JSW Dulux",
       "isin": "INE133A01029",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "JSW Dulux"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "BFI01",
+      "source_name": "Bikaji Foods International",
       "isin": "INE00E101023",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Bikaji Foods International"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "GCI",
+      "source_name": "Saregama India",
       "isin": "INE979A01025",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Saregama India"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "BDE",
+      "source_name": "Blue Dart Express",
       "isin": "INE233B01017",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Blue Dart Express"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "SF35",
+      "source_name": "SBFC Finance",
       "isin": "INE423Y01016",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "SBFC Finance"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "ABL06",
+      "source_name": "Aditya Birla Lifestyle Brands",
       "isin": "INE14LE01019",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Aditya Birla Lifestyle Brands"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "BBT",
+      "source_name": "Bombay Burmah Trading Corporation",
       "isin": "INE050A01025",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Bombay Burmah Trading Corporation"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "BJH",
+      "source_name": "Blue Jet Healthcare",
       "isin": "INE0KBH01020",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Blue Jet Healthcare"
-    },
-    {
-      "company_id": "NST01",
-      "isin": "INE619B01017",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Newgen Software Technologies"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "SS42",
+      "source_name": "Sonata Software",
       "isin": "INE269A01021",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Sonata Software"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "NST01",
+      "source_name": "Newgen Software Technologies",
+      "isin": "INE619B01017",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "SFI05",
+      "source_name": "Sapphire Foods India",
       "isin": "INE806T01020",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Sapphire Foods India"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "PFR",
+      "source_name": "Aditya Birla Fashion & Retail",
       "isin": "INE647O01011",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Aditya Birla Fashion & Retail"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "CIS01",
+      "source_name": "C. E. Info Systems (MapmyIndia)",
       "isin": "INE0BV301023",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "C. E. Info Systems (MapmyIndia)"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "LVA",
+      "source_name": "Latent View Analytics",
       "isin": "INE0I7C01011",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Latent View Analytics"
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     }
   ],
   "members_without_calendar_identifier": [
@@ -250,12 +250,12 @@
   ],
   "coverage": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 302,
-    "companies_with_reported_comparison": 176,
-    "companies_with_upcoming_forecast": 126,
-    "companies_with_nonmissing_estimate": 302,
-    "companies_without_data_this_run": 199
+    "companies_with_data_this_run": 294,
+    "companies_with_reported_comparison": 184,
+    "companies_with_upcoming_forecast": 110,
+    "companies_with_nonmissing_estimate": 294,
+    "companies_without_data_this_run": 207
   },
-  "finished_at_utc": "2026-11-02T16:23:53.839659+00:00",
-  "stored_metric_observations": 654
+  "finished_at_utc": "2026-11-03T10:36:30.855656+00:00",
+  "stored_metric_observations": 662
 }
