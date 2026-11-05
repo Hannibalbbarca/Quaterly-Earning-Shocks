@@ -1,9 +1,9 @@
 {
-  "exported_at_utc": "2026-11-03T10:36:30.871114+00:00",
+  "exported_at_utc": "2026-11-05T10:25:35.007715+00:00",
   "source": "Moneycontrol",
   "scope": "current_nifty500",
-  "latest_run_id": "7135068091e24e95be156a67d4330a8d",
-  "latest_run_status": "success",
+  "latest_run_id": "f6a520519eca460ba9e5a865a23b1c8d",
+  "latest_run_status": "error",
   "records": [
     {
       "actual": null,
@@ -57,7 +57,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:29.271788+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -111,7 +111,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:29.271788+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -165,7 +165,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:29.271788+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -219,7 +219,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -273,7 +273,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -327,7 +327,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -381,7 +381,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -435,7 +435,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -489,7 +489,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -543,7 +543,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -597,7 +597,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -651,7 +651,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -705,7 +705,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -759,7 +759,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -813,7 +813,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -867,7 +867,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -921,7 +921,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:20.310317+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -975,7 +975,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1029,7 +1029,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1083,7 +1083,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1137,7 +1137,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1191,7 +1191,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1245,7 +1245,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1299,7 +1299,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1353,7 +1353,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1407,7 +1407,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:36:03.780466+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1461,7 +1461,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:47.400213+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1515,7 +1515,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:47.400213+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1569,7 +1569,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:47.400213+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1623,7 +1623,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:47.400213+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1677,7 +1677,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:47.400213+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1731,7 +1731,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:47.400213+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1785,7 +1785,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1839,7 +1839,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1893,7 +1893,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -1947,7 +1947,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2001,7 +2001,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2055,7 +2055,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2109,7 +2109,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2163,7 +2163,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2217,7 +2217,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2271,7 +2271,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2325,7 +2325,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2379,7 +2379,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2433,7 +2433,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2487,7 +2487,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:36.754879+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2541,7 +2541,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2595,7 +2595,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2649,7 +2649,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2703,7 +2703,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2757,7 +2757,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2811,7 +2811,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2865,7 +2865,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2919,7 +2919,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -2973,7 +2973,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:17.317653+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3027,7 +3027,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3081,7 +3081,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3135,7 +3135,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3189,7 +3189,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3243,7 +3243,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3297,7 +3297,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3351,7 +3351,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3405,7 +3405,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3459,7 +3459,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3513,7 +3513,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3567,7 +3567,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3621,7 +3621,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3675,7 +3675,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:35:01.932318+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3729,7 +3729,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3783,7 +3783,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3837,7 +3837,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3891,7 +3891,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3945,7 +3945,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -3999,7 +3999,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4053,7 +4053,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4107,7 +4107,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4161,7 +4161,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4215,7 +4215,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4269,7 +4269,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4323,7 +4323,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:49.754497+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4377,7 +4377,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4431,7 +4431,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4485,7 +4485,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4539,7 +4539,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4593,7 +4593,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4647,7 +4647,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4701,7 +4701,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4755,7 +4755,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4809,7 +4809,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:30.553048+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4863,7 +4863,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4917,7 +4917,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -4971,7 +4971,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5025,7 +5025,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5079,7 +5079,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5133,7 +5133,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5187,7 +5187,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5241,7 +5241,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5295,7 +5295,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5349,7 +5349,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5403,7 +5403,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5457,7 +5457,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:34:12.451538+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5511,7 +5511,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5565,7 +5565,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5619,7 +5619,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5673,7 +5673,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5727,7 +5727,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5781,7 +5781,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5835,7 +5835,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5889,7 +5889,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -5943,7 +5943,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:55.727670+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.4",
@@ -5995,7 +5995,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "744",
@@ -6047,7 +6047,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "19644",
@@ -6099,7 +6099,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.15",
@@ -6151,7 +6151,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "726",
@@ -6203,7 +6203,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1502",
@@ -6255,7 +6255,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "30.02",
@@ -6307,7 +6307,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "121",
@@ -6359,7 +6359,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4762",
@@ -6411,7 +6411,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "20.62",
@@ -6463,7 +6463,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "275",
@@ -6515,7 +6515,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "441",
@@ -6567,7 +6567,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.52",
@@ -6619,7 +6619,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "382",
@@ -6671,7 +6671,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1576",
@@ -6723,7 +6723,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "18.93",
@@ -6775,7 +6775,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5132",
@@ -6827,7 +6827,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "35620",
@@ -6879,7 +6879,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9.37",
@@ -6931,7 +6931,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "780",
@@ -6983,7 +6983,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3188",
@@ -7035,7 +7035,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "38.37",
@@ -7087,7 +7087,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "13884",
@@ -7139,7 +7139,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "73188",
@@ -7191,7 +7191,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -7245,7 +7245,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "80",
@@ -7297,7 +7297,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "739",
@@ -7349,7 +7349,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.22",
@@ -7401,7 +7401,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "171",
@@ -7453,7 +7453,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1699",
@@ -7505,7 +7505,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:51.299083+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2.36",
@@ -7557,7 +7557,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "769",
@@ -7609,7 +7609,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9300",
@@ -7661,7 +7661,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9.75",
@@ -7713,7 +7713,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "130",
@@ -7765,7 +7765,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1211",
@@ -7817,7 +7817,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.85",
@@ -7869,7 +7869,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "119",
@@ -7921,7 +7921,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2263",
@@ -7973,7 +7973,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "17.4",
@@ -8025,7 +8025,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "749",
@@ -8077,7 +8077,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1241",
@@ -8129,7 +8129,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2.41",
@@ -8181,7 +8181,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "522",
@@ -8233,7 +8233,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0",
@@ -8286,7 +8286,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -8340,7 +8340,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "766",
@@ -8392,7 +8392,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2340",
@@ -8444,7 +8444,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7.09",
@@ -8496,7 +8496,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "300",
@@ -8548,7 +8548,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "853",
@@ -8600,7 +8600,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -8654,7 +8654,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "340",
@@ -8706,7 +8706,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1699",
@@ -8758,7 +8758,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "8.14",
@@ -8810,7 +8810,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "788",
@@ -8862,7 +8862,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1497",
@@ -8914,7 +8914,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3.88",
@@ -8966,7 +8966,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "975",
@@ -9018,7 +9018,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3514",
@@ -9070,7 +9070,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "64.78",
@@ -9122,7 +9122,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "977",
@@ -9174,7 +9174,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9899",
@@ -9226,7 +9226,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "22.22",
@@ -9278,7 +9278,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "352",
@@ -9330,7 +9330,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4664",
@@ -9382,7 +9382,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "17.84",
@@ -9434,7 +9434,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1586",
@@ -9486,7 +9486,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "16180",
@@ -9538,7 +9538,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "12.88",
@@ -9590,7 +9590,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "368",
@@ -9642,7 +9642,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6688",
@@ -9694,7 +9694,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3.23",
@@ -9746,7 +9746,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3201",
@@ -9798,7 +9798,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "24753",
@@ -9850,7 +9850,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:40.748941+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "10.05",
@@ -9902,7 +9902,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6266",
@@ -9954,7 +9954,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "15974",
@@ -10006,7 +10006,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.91",
@@ -10058,7 +10058,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "757",
@@ -10110,7 +10110,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1254",
@@ -10162,7 +10162,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.25",
@@ -10214,7 +10214,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1301",
@@ -10266,7 +10266,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1261",
@@ -10318,7 +10318,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.6",
@@ -10370,7 +10370,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "232",
@@ -10422,7 +10422,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1691",
@@ -10474,7 +10474,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -10528,7 +10528,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6412",
@@ -10580,7 +10580,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "15093",
@@ -10632,7 +10632,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.25",
@@ -10684,7 +10684,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "39",
@@ -10736,7 +10736,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1142",
@@ -10788,7 +10788,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.16",
@@ -10840,7 +10840,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "186",
@@ -10892,7 +10892,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "398",
@@ -10944,7 +10944,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.96",
@@ -10996,7 +10996,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "552",
@@ -11048,7 +11048,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0",
@@ -11101,7 +11101,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "27.44",
@@ -11153,7 +11153,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "262",
@@ -11205,7 +11205,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3776",
@@ -11257,7 +11257,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "47.11",
@@ -11309,7 +11309,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1398",
@@ -11361,7 +11361,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11808",
@@ -11413,7 +11413,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "35.74",
@@ -11465,7 +11465,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "380",
@@ -11517,7 +11517,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3040",
@@ -11569,7 +11569,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "20.94",
@@ -11621,7 +11621,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "762",
@@ -11673,7 +11673,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1671",
@@ -11725,7 +11725,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.13",
@@ -11777,7 +11777,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5898",
@@ -11829,7 +11829,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "15327",
@@ -11881,7 +11881,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3.08",
@@ -11933,7 +11933,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "33",
@@ -11985,7 +11985,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "967",
@@ -12037,7 +12037,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -12091,7 +12091,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "47",
@@ -12143,7 +12143,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4472",
@@ -12195,7 +12195,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7.57",
@@ -12247,7 +12247,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5781",
@@ -12299,7 +12299,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "15859",
@@ -12351,7 +12351,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "50.91",
@@ -12403,7 +12403,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1498",
@@ -12455,7 +12455,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "23295",
@@ -12507,7 +12507,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:33.283886+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4",
@@ -12559,7 +12559,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "665",
@@ -12611,7 +12611,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4520",
@@ -12663,7 +12663,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.01",
@@ -12715,7 +12715,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1323",
@@ -12767,7 +12767,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "10076",
@@ -12819,7 +12819,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "31.12",
@@ -12871,7 +12871,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "502",
@@ -12923,7 +12923,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1352",
@@ -12975,7 +12975,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "12.56",
@@ -13027,7 +13027,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "342",
@@ -13079,7 +13079,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1706",
@@ -13131,7 +13131,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.57",
@@ -13183,7 +13183,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "350",
@@ -13235,7 +13235,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6432",
@@ -13287,7 +13287,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "17.04",
@@ -13339,7 +13339,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3625",
@@ -13391,7 +13391,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "134407",
@@ -13443,7 +13443,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.47",
@@ -13495,7 +13495,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "121",
@@ -13547,7 +13547,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2235",
@@ -13599,7 +13599,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2.48",
@@ -13651,7 +13651,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "352",
@@ -13703,7 +13703,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2484",
@@ -13755,7 +13755,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9.79",
@@ -13807,7 +13807,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "808",
@@ -13859,7 +13859,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "12874",
@@ -13911,7 +13911,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6.05",
@@ -13963,7 +13963,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "394",
@@ -14015,7 +14015,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "819",
@@ -14067,7 +14067,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "-3.45",
@@ -14119,7 +14119,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "-922",
@@ -14171,7 +14171,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7571",
@@ -14223,7 +14223,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "17.18",
@@ -14275,7 +14275,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "509",
@@ -14327,7 +14327,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4904",
@@ -14379,7 +14379,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.34",
@@ -14431,7 +14431,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "158",
@@ -14483,7 +14483,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3399",
@@ -14535,7 +14535,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.13",
@@ -14587,7 +14587,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "125",
@@ -14639,7 +14639,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "24138",
@@ -14691,7 +14691,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:21.244266+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "52.89",
@@ -14743,7 +14743,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "156",
@@ -14795,7 +14795,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1877",
@@ -14847,7 +14847,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.38",
@@ -14899,7 +14899,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4863",
@@ -14951,7 +14951,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "149080",
@@ -15003,7 +15003,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2.61",
@@ -15055,7 +15055,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "412",
@@ -15107,7 +15107,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3802",
@@ -15159,7 +15159,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.21",
@@ -15211,7 +15211,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "934",
@@ -15263,7 +15263,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "8671",
@@ -15315,7 +15315,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.12",
@@ -15367,7 +15367,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "154",
@@ -15419,7 +15419,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1935",
@@ -15471,7 +15471,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -15525,7 +15525,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1242",
@@ -15577,7 +15577,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6817",
@@ -15629,7 +15629,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -15683,7 +15683,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "73",
@@ -15735,7 +15735,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4841",
@@ -15787,7 +15787,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -15841,7 +15841,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "774",
@@ -15893,7 +15893,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "16679",
@@ -15945,7 +15945,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "21.59",
@@ -15997,7 +15997,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5279",
@@ -16049,7 +16049,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "54486",
@@ -16101,7 +16101,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "14.14",
@@ -16153,7 +16153,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "630",
@@ -16205,7 +16205,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6171",
@@ -16257,7 +16257,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "80.32",
@@ -16309,7 +16309,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "702",
@@ -16361,7 +16361,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1907",
@@ -16413,7 +16413,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "72.56",
@@ -16465,7 +16465,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "262",
@@ -16517,7 +16517,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5897",
@@ -16569,7 +16569,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9.36",
@@ -16621,7 +16621,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "517",
@@ -16673,7 +16673,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2529",
@@ -16725,7 +16725,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.23",
@@ -16777,7 +16777,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1560",
@@ -16829,7 +16829,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "25338",
@@ -16881,7 +16881,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "14.24",
@@ -16933,7 +16933,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "541",
@@ -16985,7 +16985,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4979",
@@ -17037,7 +17037,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:33:12.286401+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "22.8",
@@ -17089,7 +17089,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "182",
@@ -17141,7 +17141,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "431",
@@ -17193,7 +17193,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3.59",
@@ -17245,7 +17245,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6919",
@@ -17297,7 +17297,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "19439",
@@ -17349,7 +17349,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.3",
@@ -17401,7 +17401,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "858",
@@ -17453,7 +17453,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3590",
@@ -17505,7 +17505,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -17559,7 +17559,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "83",
@@ -17611,7 +17611,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "825",
@@ -17663,7 +17663,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "19.3",
@@ -17715,7 +17715,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7823",
@@ -17767,7 +17767,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "49244",
@@ -17819,7 +17819,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "22.39",
@@ -17871,7 +17871,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "173",
@@ -17923,7 +17923,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3733",
@@ -17975,7 +17975,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "12.07",
@@ -18027,7 +18027,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "191",
@@ -18079,7 +18079,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1468",
@@ -18131,7 +18131,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.63",
@@ -18183,7 +18183,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "31",
@@ -18235,7 +18235,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3563",
@@ -18287,7 +18287,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -18341,7 +18341,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "157",
@@ -18393,7 +18393,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "907",
@@ -18445,7 +18445,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:55.782738+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2.56",
@@ -18497,7 +18497,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "72",
@@ -18549,7 +18549,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1148",
@@ -18601,7 +18601,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7.42",
@@ -18653,7 +18653,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "261",
@@ -18705,7 +18705,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2213",
@@ -18757,7 +18757,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.04",
@@ -18809,7 +18809,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2",
@@ -18861,7 +18861,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1464",
@@ -18913,7 +18913,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -18967,7 +18967,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "87",
@@ -19019,7 +19019,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "271",
@@ -19071,7 +19071,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "13.61",
@@ -19123,7 +19123,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "382",
@@ -19175,7 +19175,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7002",
@@ -19227,7 +19227,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "14.01",
@@ -19279,7 +19279,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "102",
@@ -19331,7 +19331,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1427",
@@ -19383,7 +19383,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "15.05",
@@ -19435,7 +19435,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "91",
@@ -19487,7 +19487,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "429",
@@ -19539,7 +19539,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.63",
@@ -19591,7 +19591,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "85",
@@ -19643,7 +19643,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1912",
@@ -19695,7 +19695,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7.06",
@@ -19747,7 +19747,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "111",
@@ -19799,7 +19799,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1394",
@@ -19851,7 +19851,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -19905,7 +19905,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "180",
@@ -19957,7 +19957,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3234",
@@ -20009,7 +20009,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.16",
@@ -20061,7 +20061,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "59",
@@ -20113,7 +20113,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "516",
@@ -20165,7 +20165,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.47",
@@ -20217,7 +20217,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "14",
@@ -20269,7 +20269,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "934",
@@ -20321,7 +20321,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "20.66",
@@ -20373,7 +20373,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "262",
@@ -20425,7 +20425,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3361",
@@ -20477,7 +20477,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.91",
@@ -20529,7 +20529,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "37",
@@ -20581,7 +20581,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "833",
@@ -20633,7 +20633,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.8",
@@ -20685,7 +20685,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "475",
@@ -20737,7 +20737,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5661",
@@ -20789,7 +20789,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:45.239569+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -20843,7 +20843,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "146",
@@ -20895,7 +20895,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5689",
@@ -20947,7 +20947,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6.8",
@@ -20999,7 +20999,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1793",
@@ -21051,7 +21051,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "8516",
@@ -21103,7 +21103,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "10.85",
@@ -21155,7 +21155,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "878",
@@ -21207,7 +21207,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7404",
@@ -21259,7 +21259,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -21313,7 +21313,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "418",
@@ -21365,7 +21365,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1136",
@@ -21417,7 +21417,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.35",
@@ -21469,7 +21469,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "318",
@@ -21521,7 +21521,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1481",
@@ -21573,7 +21573,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.65",
@@ -21625,7 +21625,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "160",
@@ -21677,7 +21677,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1416",
@@ -21729,7 +21729,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "37.8",
@@ -21781,7 +21781,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5200",
@@ -21833,7 +21833,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "78750",
@@ -21885,7 +21885,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2.33",
@@ -21938,7 +21938,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "80",
@@ -21990,7 +21990,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0",
@@ -22043,7 +22043,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.04",
@@ -22095,7 +22095,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6",
@@ -22147,7 +22147,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2617",
@@ -22199,7 +22199,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "17.33",
@@ -22251,7 +22251,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "232",
@@ -22303,7 +22303,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1745",
@@ -22355,7 +22355,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.37",
@@ -22407,7 +22407,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1805",
@@ -22459,7 +22459,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "31998",
@@ -22511,7 +22511,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.47",
@@ -22563,7 +22563,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "549",
@@ -22615,7 +22615,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "24292",
@@ -22667,7 +22667,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3.91",
@@ -22719,7 +22719,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1660",
@@ -22771,7 +22771,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4662",
@@ -22823,7 +22823,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "151.17",
@@ -22875,7 +22875,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "134",
@@ -22927,7 +22927,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1224",
@@ -22979,7 +22979,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.12",
@@ -23031,7 +23031,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "135",
@@ -23083,7 +23083,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2537",
@@ -23135,7 +23135,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "24.94",
@@ -23187,7 +23187,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "719",
@@ -23239,7 +23239,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7518",
@@ -23291,7 +23291,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:36.421287+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -23345,7 +23345,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1492",
@@ -23397,7 +23397,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "37216",
@@ -23449,7 +23449,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -23503,7 +23503,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "157",
@@ -23555,7 +23555,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "662",
@@ -23607,7 +23607,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3.75",
@@ -23659,7 +23659,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "268",
@@ -23711,7 +23711,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "887",
@@ -23763,7 +23763,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.19",
@@ -23815,7 +23815,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "416",
@@ -23867,7 +23867,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "873",
@@ -23919,7 +23919,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "19.27",
@@ -23971,7 +23971,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "180",
@@ -24023,7 +24023,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1189",
@@ -24075,7 +24075,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "8.28",
@@ -24127,7 +24127,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "190",
@@ -24179,7 +24179,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1585",
@@ -24231,7 +24231,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "-0.01",
@@ -24284,7 +24284,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "-15",
@@ -24336,7 +24336,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4095",
@@ -24388,7 +24388,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.86",
@@ -24440,7 +24440,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2789",
@@ -24492,7 +24492,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "18226",
@@ -24544,7 +24544,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "14.72",
@@ -24596,7 +24596,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1196",
@@ -24648,7 +24648,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "20696",
@@ -24700,7 +24700,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.62",
@@ -24752,7 +24752,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1056",
@@ -24804,7 +24804,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6368",
@@ -24856,7 +24856,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.4",
@@ -24908,7 +24908,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "121",
@@ -24960,7 +24960,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1691",
@@ -25012,7 +25012,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "10.09",
@@ -25064,7 +25064,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "345",
@@ -25116,7 +25116,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1940",
@@ -25168,7 +25168,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6.36",
@@ -25220,7 +25220,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "452",
@@ -25272,7 +25272,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3264",
@@ -25324,7 +25324,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "15.83",
@@ -25376,7 +25376,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3647",
@@ -25428,7 +25428,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11340",
@@ -25480,7 +25480,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "23.59",
@@ -25532,7 +25532,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "617",
@@ -25584,7 +25584,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1009",
@@ -25636,7 +25636,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6.03",
@@ -25688,7 +25688,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "615",
@@ -25740,7 +25740,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4298",
@@ -25792,7 +25792,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "26.74",
@@ -25844,7 +25844,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "263",
@@ -25896,7 +25896,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2105",
@@ -25948,7 +25948,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9.3",
@@ -26000,7 +26000,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3650",
@@ -26052,7 +26052,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "25812",
@@ -26104,7 +26104,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:30.386170+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.93",
@@ -26156,7 +26156,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "194",
@@ -26208,7 +26208,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1196",
@@ -26260,7 +26260,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "29.16",
@@ -26312,7 +26312,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "398",
@@ -26364,7 +26364,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3076",
@@ -26416,7 +26416,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3.31",
@@ -26468,7 +26468,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "233",
@@ -26520,7 +26520,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2826",
@@ -26572,7 +26572,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -26626,7 +26626,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "117",
@@ -26678,7 +26678,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "760",
@@ -26730,7 +26730,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.56",
@@ -26782,7 +26782,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "139",
@@ -26834,7 +26834,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "167",
@@ -26886,7 +26886,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.33",
@@ -26938,7 +26938,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "39",
@@ -26990,7 +26990,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "806",
@@ -27042,7 +27042,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:32:06.187199+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "109.78",
@@ -27094,7 +27094,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "447",
@@ -27146,7 +27146,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6931",
@@ -27198,7 +27198,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.14",
@@ -27250,7 +27250,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1068",
@@ -27302,7 +27302,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9977",
@@ -27354,7 +27354,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6.91",
@@ -27406,7 +27406,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "142",
@@ -27458,7 +27458,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2931",
@@ -27510,7 +27510,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "10.57",
@@ -27562,7 +27562,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6516",
@@ -27614,7 +27614,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "46833",
@@ -27666,7 +27666,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.05",
@@ -27718,7 +27718,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "260",
@@ -27770,7 +27770,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9197",
@@ -27822,7 +27822,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5.18",
@@ -27874,7 +27874,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "530",
@@ -27926,7 +27926,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4413",
@@ -27978,7 +27978,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "-48.58",
@@ -28030,7 +28030,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "-1879",
@@ -28082,7 +28082,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "23364",
@@ -28134,7 +28134,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "8.16",
@@ -28186,7 +28186,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "441",
@@ -28238,7 +28238,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2206",
@@ -28290,7 +28290,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "8.7",
@@ -28342,7 +28342,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "464",
@@ -28394,7 +28394,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5873",
@@ -28446,7 +28446,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -28500,7 +28500,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1081",
@@ -28552,7 +28552,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1757",
@@ -28604,7 +28604,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.29",
@@ -28656,7 +28656,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "394",
@@ -28708,7 +28708,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4876",
@@ -28760,7 +28760,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "15.43",
@@ -28812,7 +28812,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "116",
@@ -28864,7 +28864,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "969",
@@ -28916,7 +28916,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "18.89",
@@ -28968,7 +28968,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "499",
@@ -29020,7 +29020,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4644",
@@ -29072,7 +29072,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:52.817522+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9.08",
@@ -29124,7 +29124,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "130",
@@ -29176,7 +29176,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "784",
@@ -29228,7 +29228,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.65",
@@ -29280,7 +29280,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "168",
@@ -29332,7 +29332,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3668",
@@ -29384,7 +29384,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "31.03",
@@ -29436,7 +29436,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "388",
@@ -29488,7 +29488,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1794",
@@ -29540,7 +29540,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6.8",
@@ -29592,7 +29592,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "123",
@@ -29644,7 +29644,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1608",
@@ -29696,7 +29696,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7.32",
@@ -29748,7 +29748,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "104",
@@ -29800,7 +29800,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "847",
@@ -29852,7 +29852,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.16",
@@ -29904,7 +29904,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "26",
@@ -29956,7 +29956,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5118",
@@ -30008,7 +30008,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "14.82",
@@ -30060,7 +30060,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "301",
@@ -30112,7 +30112,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2844",
@@ -30164,7 +30164,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "52.41",
@@ -30216,7 +30216,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "269",
@@ -30268,7 +30268,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1191",
@@ -30320,7 +30320,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.68",
@@ -30372,7 +30372,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "657",
@@ -30424,7 +30424,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2244",
@@ -30476,7 +30476,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -30530,7 +30530,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "159",
@@ -30582,7 +30582,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1648",
@@ -30634,7 +30634,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9.25",
@@ -30686,7 +30686,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "364",
@@ -30738,7 +30738,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "940",
@@ -30790,7 +30790,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.86",
@@ -30842,7 +30842,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "174",
@@ -30894,7 +30894,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2838",
@@ -30946,7 +30946,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0.5",
@@ -30998,7 +30998,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "46",
@@ -31050,7 +31050,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2225",
@@ -31102,7 +31102,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:39.371751+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.65",
@@ -31154,7 +31154,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1288",
@@ -31206,7 +31206,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "0",
@@ -31259,7 +31259,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2.11",
@@ -31311,7 +31311,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1540",
@@ -31363,7 +31363,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7328",
@@ -31415,7 +31415,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "8.32",
@@ -31467,7 +31467,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "174",
@@ -31519,7 +31519,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "394",
@@ -31571,7 +31571,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "67.37",
@@ -31623,7 +31623,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "344",
@@ -31675,7 +31675,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "21794",
@@ -31727,7 +31727,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7.18",
@@ -31779,7 +31779,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4720",
@@ -31831,7 +31831,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "47139",
@@ -31883,7 +31883,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "16.84",
@@ -31935,7 +31935,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "431",
@@ -31987,7 +31987,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2027",
@@ -32039,7 +32039,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "15.54",
@@ -32091,7 +32091,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "21408",
@@ -32143,7 +32143,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "253967",
@@ -32195,7 +32195,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "10.12",
@@ -32247,7 +32247,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1013",
@@ -32299,7 +32299,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4467",
@@ -32351,7 +32351,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.24",
@@ -32403,7 +32403,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "415",
@@ -32455,7 +32455,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2569",
@@ -32507,7 +32507,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -32561,7 +32561,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "137",
@@ -32613,7 +32613,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "938",
@@ -32665,7 +32665,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "9.1",
@@ -32717,7 +32717,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "326",
@@ -32769,7 +32769,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1153",
@@ -32821,7 +32821,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "18.88",
@@ -32873,7 +32873,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "25548",
@@ -32925,7 +32925,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "330601",
@@ -32977,7 +32977,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "18.3",
@@ -33029,7 +33029,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "493",
@@ -33081,7 +33081,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5960",
@@ -33133,7 +33133,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "11.5",
@@ -33185,7 +33185,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "2754",
@@ -33248,7 +33248,7 @@
       ],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "16199",
@@ -33300,7 +33300,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -33354,7 +33354,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "90",
@@ -33406,7 +33406,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "345",
@@ -33458,7 +33458,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:28.808778+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.54",
@@ -33510,7 +33510,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "29",
@@ -33562,7 +33562,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1469",
@@ -33614,7 +33614,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7.03",
@@ -33666,7 +33666,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "182",
@@ -33718,7 +33718,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1560",
@@ -33770,7 +33770,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3.34",
@@ -33822,7 +33822,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4187",
@@ -33874,7 +33874,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "20269",
@@ -33926,7 +33926,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "1.12",
@@ -33978,7 +33978,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "30",
@@ -34030,7 +34030,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "5468",
@@ -34082,7 +34082,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
@@ -34136,7 +34136,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3247",
@@ -34188,7 +34188,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "6294",
@@ -34240,7 +34240,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.24",
@@ -34292,7 +34292,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "550",
@@ -34344,7 +34344,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3897",
@@ -34396,7 +34396,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7.25",
@@ -34448,7 +34448,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "7030",
@@ -34500,7 +34500,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "54270",
@@ -34552,7 +34552,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "4.06",
@@ -34604,7 +34604,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "3866",
@@ -34656,7 +34656,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": "12055",
@@ -34708,7 +34708,7 @@
       "validation_references": [],
       "collected_at_utc": "2026-11-03T10:31:07.714320+00:00",
       "run_id": "7135068091e24e95be156a67d4330a8d",
-      "seen_in_latest_run": true
+      "seen_in_latest_run": false
     },
     {
       "actual": null,
