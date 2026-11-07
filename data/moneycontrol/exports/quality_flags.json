@@ -1,5 +1,5 @@
 {
-  "exported_at_utc": "2026-11-06T10:33:48.071292+00:00",
+  "exported_at_utc": "2026-11-07T09:47:05.094799+00:00",
   "records": [
     {
       "actual": "2754",
@@ -60,8 +60,8 @@
           "tolerance": "1"
         }
       ],
-      "collected_at_utc": "2026-11-06T10:30:40.882524+00:00",
-      "run_id": "7338cf676b9b4eada88281ab33ce43fc",
+      "collected_at_utc": "2026-11-07T09:44:05.045654+00:00",
+      "run_id": "b478b2ab0b0c4b57b15e9f75e3a7b5d6",
       "seen_in_latest_run": true
     }
   ]

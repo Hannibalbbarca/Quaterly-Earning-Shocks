@@ -1,41 +1,41 @@
 {
-  "run_id": "7338cf676b9b4eada88281ab33ce43fc",
+  "run_id": "b478b2ab0b0c4b57b15e9f75e3a7b5d6",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-06T10:27:28.694880+00:00",
+  "started_at_utc": "2026-11-07T09:40:13.743154+00:00",
   "status": "success",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
-      "pages": 19,
-      "source_cards": 387,
-      "metrics_stored": 690,
-      "new_versions": 143,
-      "excluded_out_of_scope": 471,
+      "pages": 21,
+      "source_cards": 437,
+      "metrics_stored": 765,
+      "new_versions": 81,
+      "excluded_out_of_scope": 546,
       "quarantined": 0,
-      "companies_stored": 230
+      "companies_stored": 255
     },
     {
       "feed": "high",
       "status": "success",
-      "pages": 3,
-      "source_cards": 45,
-      "metrics_stored": 22,
-      "new_versions": 15,
-      "excluded_out_of_scope": 23,
+      "pages": 2,
+      "source_cards": 31,
+      "metrics_stored": 16,
+      "new_versions": 4,
+      "excluded_out_of_scope": 15,
       "quarantined": 0,
-      "companies_stored": 22
+      "companies_stored": 16
     },
     {
       "feed": "low",
       "status": "success",
       "pages": 1,
-      "source_cards": 19,
-      "metrics_stored": 15,
-      "new_versions": 10,
-      "excluded_out_of_scope": 4,
+      "source_cards": 16,
+      "metrics_stored": 11,
+      "new_versions": 4,
+      "excluded_out_of_scope": 5,
       "quarantined": 0,
-      "companies_stored": 15
+      "companies_stored": 11
     }
   ],
   "errors": [],
@@ -137,15 +137,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "BFI01",
-      "source_name": "Bikaji Foods International",
-      "isin": "INE00E101023",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "GCI",
       "source_name": "Saregama India",
       "isin": "INE979A01025",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "BFI01",
+      "source_name": "Bikaji Foods International",
+      "isin": "INE00E101023",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -250,12 +250,12 @@
   ],
   "coverage": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 267,
-    "companies_with_reported_comparison": 230,
-    "companies_with_upcoming_forecast": 37,
-    "companies_with_nonmissing_estimate": 267,
-    "companies_without_data_this_run": 234
+    "companies_with_data_this_run": 282,
+    "companies_with_reported_comparison": 255,
+    "companies_with_upcoming_forecast": 27,
+    "companies_with_nonmissing_estimate": 282,
+    "companies_without_data_this_run": 219
   },
-  "finished_at_utc": "2026-11-06T10:33:48.049122+00:00",
-  "stored_metric_observations": 727
+  "finished_at_utc": "2026-11-07T09:47:05.065897+00:00",
+  "stored_metric_observations": 792
 }
