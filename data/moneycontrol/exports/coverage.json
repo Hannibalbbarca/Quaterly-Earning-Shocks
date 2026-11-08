@@ -1,13 +1,13 @@
 {
-  "run_id": "b478b2ab0b0c4b57b15e9f75e3a7b5d6",
-  "membership_reference_collected_at": "2026-11-07T09:40:14.209769+00:00",
+  "run_id": "23c53acea98844298618a59c43d9b302",
+  "membership_reference_collected_at": "2026-11-08T09:55:10.924673+00:00",
   "summary": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 282,
-    "companies_with_reported_comparison": 255,
-    "companies_with_upcoming_forecast": 27,
-    "companies_with_nonmissing_estimate": 282,
-    "companies_without_data_this_run": 219
+    "companies_with_data_this_run": 306,
+    "companies_with_reported_comparison": 278,
+    "companies_with_upcoming_forecast": 28,
+    "companies_with_nonmissing_estimate": 306,
+    "companies_without_data_this_run": 195
   },
   "note": "No card in these estimate feeds does not establish that a company has not released results. Missing analyst coverage is not filled in.",
   "records": [
@@ -103,13 +103,19 @@
       "company_name": "Abbott India Ltd.",
       "isin": "INE358A01014",
       "industry": "Healthcare",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "ABCAPITAL",
@@ -762,13 +768,19 @@
       "company_name": "Aster DM Quality Care Ltd.",
       "isin": "INE914M01019",
       "industry": "Healthcare",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "ASTRAL",
@@ -926,13 +938,19 @@
       "company_name": "Azad Engineering Ltd.",
       "isin": "INE02IJ01035",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "BAGMANE",
@@ -1187,13 +1205,19 @@
       "company_name": "BEML Ltd.",
       "isin": "INE258A01024",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "BERGEPAINT",
@@ -1423,13 +1447,19 @@
       "company_name": "Britannia Industries Ltd.",
       "isin": "INE216A01030",
       "industry": "Fast Moving Consumer Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "BSE",
@@ -1939,13 +1969,19 @@
       "company_name": "Cohance Lifesciences Ltd.",
       "isin": "INE03QK01018",
       "industry": "Healthcare",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "COLPAL",
@@ -1997,13 +2033,19 @@
       "company_name": "Coromandel International Ltd.",
       "isin": "INE169A01031",
       "industry": "Chemicals",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "CPPLUS",
@@ -2271,11 +2313,13 @@
       "isin": "INE361B01024",
       "industry": "Healthcare",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -2414,13 +2458,17 @@
       "company_name": "Eicher Motors Ltd.",
       "isin": "INE066A01021",
       "industry": "Automobile and Auto Components",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "EIDPARRY",
@@ -2466,13 +2514,19 @@
       "company_name": "Elgi Equipments Ltd.",
       "isin": "INE285A01027",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "EMAMILTD",
@@ -2665,26 +2719,36 @@
       "company_name": "Finolex Cables Ltd.",
       "isin": "INE235A01022",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "FIRSTCRY",
       "company_name": "Brainbees Solutions Ltd.",
       "isin": "INE02RE01045",
       "industry": "Consumer Services",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "FIVESTAR",
@@ -2736,13 +2800,19 @@
       "company_name": "Fortis Healthcare Ltd.",
       "isin": "INE061F01013",
       "industry": "Healthcare",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "FRACTAL",
@@ -2838,13 +2908,19 @@
       "company_name": "Great Eastern Shipping Co. Ltd.",
       "isin": "INE017A01032",
       "industry": "Services",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "GICRE",
@@ -3727,13 +3803,19 @@
       "company_name": "Inventurus Knowledge Solutions Ltd.",
       "isin": "INE115Q01022",
       "industry": "Information Technology",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "INDHOTEL",
@@ -3905,13 +3987,17 @@
       "company_name": "Inox Wind Ltd.",
       "isin": "INE066P01011",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "INTELLECT",
@@ -4375,13 +4461,19 @@
       "company_name": "Jubilant Foodworks Ltd.",
       "isin": "INE797F01020",
       "industry": "Consumer Services",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "JUBLINGREA",
@@ -4776,13 +4868,19 @@
       "company_name": "Life Insurance Corporation of India",
       "isin": "INE0J1Y01017",
       "industry": "Financial Services",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "LINDEINDIA",
@@ -5416,13 +5514,19 @@
       "company_name": "NBCC (India) Ltd.",
       "isin": "INE095N01031",
       "industry": "Construction",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "NCC",
@@ -5625,13 +5729,19 @@
       "company_name": "Nuvama Wealth Management Ltd.",
       "isin": "INE531F01023",
       "industry": "Financial Services",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "NUVOCO",
@@ -6324,13 +6434,19 @@
       "company_name": "The Ramco Cements Ltd.",
       "isin": "INE331A01037",
       "industry": "Construction Materials",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "RBLBANK",
@@ -6418,13 +6534,19 @@
       "company_name": "RITES Ltd.",
       "isin": "INE320J01015",
       "industry": "Construction",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "RKFORGE",
@@ -6648,13 +6770,19 @@
       "company_name": "Schneider Electric Infrastructure Ltd.",
       "isin": "INE839M01018",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "SCI",
@@ -7102,11 +7230,13 @@
       "isin": "INE092A01019",
       "industry": "Chemicals",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -7200,11 +7330,13 @@
       "isin": "INE081A01020",
       "industry": "Metals & Mining",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -7344,13 +7476,19 @@
       "company_name": "Tenneco Clean Air India Ltd.",
       "isin": "INE19RI01016",
       "industry": "Automobile and Auto Components",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "THANGAMAYL",
@@ -7760,13 +7898,17 @@
       "company_name": "Usha Martin Ltd.",
       "isin": "INE228A01035",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "UTIAMC",

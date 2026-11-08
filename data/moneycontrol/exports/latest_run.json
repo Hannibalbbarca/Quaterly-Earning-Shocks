@@ -1,41 +1,41 @@
 {
-  "run_id": "b478b2ab0b0c4b57b15e9f75e3a7b5d6",
+  "run_id": "23c53acea98844298618a59c43d9b302",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-07T09:40:13.743154+00:00",
+  "started_at_utc": "2026-11-08T09:55:10.488101+00:00",
   "status": "success",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
-      "pages": 21,
-      "source_cards": 437,
-      "metrics_stored": 765,
-      "new_versions": 81,
-      "excluded_out_of_scope": 546,
+      "pages": 23,
+      "source_cards": 482,
+      "metrics_stored": 834,
+      "new_versions": 77,
+      "excluded_out_of_scope": 612,
       "quarantined": 0,
-      "companies_stored": 255
+      "companies_stored": 278
     },
     {
       "feed": "high",
       "status": "success",
       "pages": 2,
-      "source_cards": 31,
-      "metrics_stored": 16,
+      "source_cards": 38,
+      "metrics_stored": 19,
       "new_versions": 4,
-      "excluded_out_of_scope": 15,
+      "excluded_out_of_scope": 19,
       "quarantined": 0,
-      "companies_stored": 16
+      "companies_stored": 19
     },
     {
       "feed": "low",
       "status": "success",
       "pages": 1,
-      "source_cards": 16,
-      "metrics_stored": 11,
-      "new_versions": 4,
-      "excluded_out_of_scope": 5,
+      "source_cards": 17,
+      "metrics_stored": 9,
+      "new_versions": 1,
+      "excluded_out_of_scope": 8,
       "quarantined": 0,
-      "companies_stored": 11
+      "companies_stored": 9
     }
   ],
   "errors": [],
@@ -59,15 +59,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "SBL04",
-      "source_name": "Leela Palaces Hotels & Resorts",
-      "isin": "INE0AQ201015",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "GDGIL",
       "source_name": "Go Digit General Insurance",
       "isin": "INE03JT01014",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "SBL04",
+      "source_name": "Leela Palaces Hotels & Resorts",
+      "isin": "INE0AQ201015",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -95,15 +95,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "VOC",
-      "source_name": "Jubilant Pharmova",
-      "isin": "INE700A01033",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "HSA01",
       "source_name": "Bayer CropScience",
       "isin": "INE462A01022",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "VOC",
+      "source_name": "Jubilant Pharmova",
+      "isin": "INE700A01033",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -125,15 +125,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "SP",
-      "source_name": "Supreme Petrochem",
-      "isin": "INE663A01033",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "ICI",
       "source_name": "JSW Dulux",
       "isin": "INE133A01029",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "SP",
+      "source_name": "Supreme Petrochem",
+      "isin": "INE663A01033",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -179,15 +179,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "SFI05",
-      "source_name": "Sapphire Foods India",
-      "isin": "INE806T01020",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "SS42",
       "source_name": "Sonata Software",
       "isin": "INE269A01021",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "SFI05",
+      "source_name": "Sapphire Foods India",
+      "isin": "INE806T01020",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -250,12 +250,12 @@
   ],
   "coverage": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 282,
-    "companies_with_reported_comparison": 255,
-    "companies_with_upcoming_forecast": 27,
-    "companies_with_nonmissing_estimate": 282,
-    "companies_without_data_this_run": 219
+    "companies_with_data_this_run": 306,
+    "companies_with_reported_comparison": 278,
+    "companies_with_upcoming_forecast": 28,
+    "companies_with_nonmissing_estimate": 306,
+    "companies_without_data_this_run": 195
   },
-  "finished_at_utc": "2026-11-07T09:47:05.065897+00:00",
-  "stored_metric_observations": 792
+  "finished_at_utc": "2026-11-08T10:02:21.811127+00:00",
+  "stored_metric_observations": 862
 }

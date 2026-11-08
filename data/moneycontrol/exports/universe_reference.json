@@ -14,16 +14,16 @@
       "source_name": "3M India"
     },
     {
-      "company_id": "SBL04",
-      "isin": "INE0AQ201015",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Leela Palaces Hotels & Resorts"
-    },
-    {
       "company_id": "GDGIL",
       "isin": "INE03JT01014",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Go Digit General Insurance"
+    },
+    {
+      "company_id": "SBL04",
+      "isin": "INE0AQ201015",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Leela Palaces Hotels & Resorts"
     },
     {
       "company_id": "CH03",
@@ -50,16 +50,16 @@
       "source_name": "Travel Food Services"
     },
     {
-      "company_id": "VOC",
-      "isin": "INE700A01033",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Jubilant Pharmova"
-    },
-    {
       "company_id": "HSA01",
       "isin": "INE462A01022",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Bayer CropScience"
+    },
+    {
+      "company_id": "VOC",
+      "isin": "INE700A01033",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Jubilant Pharmova"
     },
     {
       "company_id": "IL06",
@@ -80,16 +80,16 @@
       "source_name": "DCM Shriram"
     },
     {
-      "company_id": "SP",
-      "isin": "INE663A01033",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Supreme Petrochem"
-    },
-    {
       "company_id": "ICI",
       "isin": "INE133A01029",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "JSW Dulux"
+    },
+    {
+      "company_id": "SP",
+      "isin": "INE663A01033",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Supreme Petrochem"
     },
     {
       "company_id": "GCI",
@@ -134,16 +134,16 @@
       "source_name": "Bombay Burmah Trading Corporation"
     },
     {
-      "company_id": "SFI05",
-      "isin": "INE806T01020",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Sapphire Foods India"
-    },
-    {
       "company_id": "SS42",
       "isin": "INE269A01021",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Sonata Software"
+    },
+    {
+      "company_id": "SFI05",
+      "isin": "INE806T01020",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Sapphire Foods India"
     },
     {
       "company_id": "NST01",
@@ -170,7 +170,7 @@
       "source_name": "Latent View Analytics"
     }
   ],
-  "fetched_at": "2026-11-07T09:40:14.209769+00:00",
+  "fetched_at": "2026-11-08T09:55:10.924673+00:00",
   "identifiers": {
     "A06": {
       "company_name": "Atul Ltd.",
