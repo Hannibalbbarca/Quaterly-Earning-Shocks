@@ -26,16 +26,16 @@
       "source_name": "Leela Palaces Hotels & Resorts"
     },
     {
-      "company_id": "CH03",
-      "isin": "INE427F01016",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Chalet Hotels"
-    },
-    {
       "company_id": "P",
       "isin": "INE182A01018",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Pfizer"
+    },
+    {
+      "company_id": "CH03",
+      "isin": "INE427F01016",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Chalet Hotels"
     },
     {
       "company_id": "EL01",
@@ -68,16 +68,16 @@
       "source_name": "Indegene"
     },
     {
-      "company_id": "NBH",
-      "isin": "INE995S01015",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Niva Bupa Health Insurance Company"
-    },
-    {
       "company_id": "DCM02",
       "isin": "INE499A01024",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "DCM Shriram"
+    },
+    {
+      "company_id": "NBH",
+      "isin": "INE995S01015",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Niva Bupa Health Insurance Company"
     },
     {
       "company_id": "ICI",
@@ -170,7 +170,7 @@
       "source_name": "Latent View Analytics"
     }
   ],
-  "fetched_at": "2026-11-08T09:55:10.924673+00:00",
+  "fetched_at": "2026-11-09T10:57:54.808372+00:00",
   "identifiers": {
     "A06": {
       "company_name": "Atul Ltd.",

@@ -1,17 +1,17 @@
 {
-  "run_id": "23c53acea98844298618a59c43d9b302",
+  "run_id": "55daa926a9e848ffb3fd247333b47a92",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-08T09:55:10.488101+00:00",
+  "started_at_utc": "2026-11-09T10:57:54.106447+00:00",
   "status": "success",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
       "pages": 23,
-      "source_cards": 482,
+      "source_cards": 481,
       "metrics_stored": 834,
-      "new_versions": 77,
-      "excluded_out_of_scope": 612,
+      "new_versions": 19,
+      "excluded_out_of_scope": 609,
       "quarantined": 0,
       "companies_stored": 278
     },
@@ -21,7 +21,7 @@
       "pages": 2,
       "source_cards": 38,
       "metrics_stored": 19,
-      "new_versions": 4,
+      "new_versions": 0,
       "excluded_out_of_scope": 19,
       "quarantined": 0,
       "companies_stored": 19
@@ -71,15 +71,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "CH03",
-      "source_name": "Chalet Hotels",
-      "isin": "INE427F01016",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "P",
       "source_name": "Pfizer",
       "isin": "INE182A01018",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "CH03",
+      "source_name": "Chalet Hotels",
+      "isin": "INE427F01016",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -113,15 +113,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "NBH",
-      "source_name": "Niva Bupa Health Insurance Company",
-      "isin": "INE995S01015",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "DCM02",
       "source_name": "DCM Shriram",
       "isin": "INE499A01024",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "NBH",
+      "source_name": "Niva Bupa Health Insurance Company",
+      "isin": "INE995S01015",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -256,6 +256,6 @@
     "companies_with_nonmissing_estimate": 306,
     "companies_without_data_this_run": 195
   },
-  "finished_at_utc": "2026-11-08T10:02:21.811127+00:00",
+  "finished_at_utc": "2026-11-09T11:05:13.790492+00:00",
   "stored_metric_observations": 862
 }
