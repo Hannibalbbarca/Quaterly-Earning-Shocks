@@ -1,19 +1,19 @@
 {
-  "run_id": "55daa926a9e848ffb3fd247333b47a92",
+  "run_id": "319a15a709e84e6fb369b20b3c04ac9e",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-09T10:57:54.106447+00:00",
+  "started_at_utc": "2026-11-10T10:49:01.639988+00:00",
   "status": "success",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
       "pages": 23,
-      "source_cards": 481,
-      "metrics_stored": 834,
-      "new_versions": 19,
+      "source_cards": 482,
+      "metrics_stored": 837,
+      "new_versions": 31,
       "excluded_out_of_scope": 609,
       "quarantined": 0,
-      "companies_stored": 278
+      "companies_stored": 279
     },
     {
       "feed": "high",
@@ -21,7 +21,7 @@
       "pages": 2,
       "source_cards": 38,
       "metrics_stored": 19,
-      "new_versions": 0,
+      "new_versions": 1,
       "excluded_out_of_scope": 19,
       "quarantined": 0,
       "companies_stored": 19
@@ -30,12 +30,12 @@
       "feed": "low",
       "status": "success",
       "pages": 1,
-      "source_cards": 17,
-      "metrics_stored": 9,
-      "new_versions": 1,
+      "source_cards": 16,
+      "metrics_stored": 8,
+      "new_versions": 2,
       "excluded_out_of_scope": 8,
       "quarantined": 0,
-      "companies_stored": 9
+      "companies_stored": 8
     }
   ],
   "errors": [],
@@ -251,11 +251,11 @@
   "coverage": {
     "official_members_tracked": 501,
     "companies_with_data_this_run": 306,
-    "companies_with_reported_comparison": 278,
-    "companies_with_upcoming_forecast": 28,
+    "companies_with_reported_comparison": 279,
+    "companies_with_upcoming_forecast": 27,
     "companies_with_nonmissing_estimate": 306,
     "companies_without_data_this_run": 195
   },
-  "finished_at_utc": "2026-11-09T11:05:13.790492+00:00",
-  "stored_metric_observations": 862
+  "finished_at_utc": "2026-11-10T10:56:11.519776+00:00",
+  "stored_metric_observations": 864
 }

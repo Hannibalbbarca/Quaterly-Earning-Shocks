@@ -1,11 +1,11 @@
 {
-  "run_id": "55daa926a9e848ffb3fd247333b47a92",
-  "membership_reference_collected_at": "2026-11-09T10:57:54.808372+00:00",
+  "run_id": "319a15a709e84e6fb369b20b3c04ac9e",
+  "membership_reference_collected_at": "2026-11-10T10:49:02.000052+00:00",
   "summary": {
     "official_members_tracked": 501,
     "companies_with_data_this_run": 306,
-    "companies_with_reported_comparison": 278,
-    "companies_with_upcoming_forecast": 28,
+    "companies_with_reported_comparison": 279,
+    "companies_with_upcoming_forecast": 27,
     "companies_with_nonmissing_estimate": 306,
     "companies_without_data_this_run": 195
   },
@@ -8140,11 +8140,13 @@
       "isin": "INE716A01013",
       "industry": "Consumer Durables",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
