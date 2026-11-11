@@ -1,13 +1,13 @@
 {
-  "run_id": "319a15a709e84e6fb369b20b3c04ac9e",
-  "membership_reference_collected_at": "2026-11-10T10:49:02.000052+00:00",
+  "run_id": "aa071d32c54642de9cc55d7dce645a1c",
+  "membership_reference_collected_at": "2026-11-11T10:25:01.132775+00:00",
   "summary": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 306,
-    "companies_with_reported_comparison": 279,
-    "companies_with_upcoming_forecast": 27,
-    "companies_with_nonmissing_estimate": 306,
-    "companies_without_data_this_run": 195
+    "companies_with_data_this_run": 313,
+    "companies_with_reported_comparison": 283,
+    "companies_with_upcoming_forecast": 30,
+    "companies_with_nonmissing_estimate": 313,
+    "companies_without_data_this_run": 188
   },
   "note": "No card in these estimate feeds does not establish that a company has not released results. Missing analyst coverage is not filled in.",
   "records": [
@@ -508,13 +508,17 @@
       "company_name": "Amber Enterprises India Ltd.",
       "isin": "INE371P01015",
       "industry": "Consumer Durables",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "AMBUJACEM",
@@ -896,11 +900,13 @@
       "isin": "INE871C01038",
       "industry": "Fast Moving Consumer Goods",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -1192,13 +1198,17 @@
       "company_name": "Belrise Industries Ltd.",
       "isin": "INE894V01022",
       "industry": "Automobile and Auto Components",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "BEML",
@@ -1937,13 +1947,19 @@
       "company_name": "Cochin Shipyard Ltd.",
       "isin": "INE704P01025",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "COFORGE",
@@ -2237,13 +2253,19 @@
       "company_name": "Data Patterns (India) Ltd.",
       "isin": "INE0IX101010",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "DEEPAKFERT",
@@ -4499,13 +4521,17 @@
       "company_name": "Jupiter Wagons Ltd.",
       "isin": "INE209L01016",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "JYOTICNC",
@@ -4550,17 +4576,13 @@
       "company_name": "Kalyan Jewellers India Ltd.",
       "isin": "INE303R01014",
       "industry": "Consumer Durables",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "KARURVYSYA",
@@ -4586,13 +4608,17 @@
       "company_name": "Kaynes Technology India Ltd.",
       "isin": "INE918Z01012",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "KEC",
@@ -5345,17 +5371,13 @@
       "company_name": "MRF Ltd.",
       "isin": "INE883A01011",
       "industry": "Automobile and Auto Components",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "MRPL",
@@ -5829,13 +5851,17 @@
       "company_name": "Ola Electric Mobility Ltd.",
       "isin": "INE0LXG01040",
       "industry": "Automobile and Auto Components",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "OLECTRA",
@@ -6872,13 +6898,19 @@
       "company_name": "Siemens Ltd.",
       "isin": "INE003A01024",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "SIGNATURE",
@@ -8260,13 +8292,17 @@
       "company_name": "ZF Commercial Vehicle Control Systems India Ltd.",
       "isin": "INE342J01019",
       "industry": "Automobile and Auto Components",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "ZYDUSLIFE",

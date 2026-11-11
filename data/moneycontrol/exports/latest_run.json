@@ -1,30 +1,30 @@
 {
-  "run_id": "319a15a709e84e6fb369b20b3c04ac9e",
+  "run_id": "aa071d32c54642de9cc55d7dce645a1c",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-10T10:49:01.639988+00:00",
+  "started_at_utc": "2026-11-11T10:25:00.600661+00:00",
   "status": "success",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
-      "pages": 23,
-      "source_cards": 482,
-      "metrics_stored": 837,
-      "new_versions": 31,
+      "pages": 24,
+      "source_cards": 486,
+      "metrics_stored": 849,
+      "new_versions": 23,
       "excluded_out_of_scope": 609,
       "quarantined": 0,
-      "companies_stored": 279
+      "companies_stored": 283
     },
     {
       "feed": "high",
       "status": "success",
       "pages": 2,
-      "source_cards": 38,
-      "metrics_stored": 19,
-      "new_versions": 1,
-      "excluded_out_of_scope": 19,
+      "source_cards": 40,
+      "metrics_stored": 22,
+      "new_versions": 7,
+      "excluded_out_of_scope": 18,
       "quarantined": 0,
-      "companies_stored": 19
+      "companies_stored": 22
     },
     {
       "feed": "low",
@@ -32,7 +32,7 @@
       "pages": 1,
       "source_cards": 16,
       "metrics_stored": 8,
-      "new_versions": 2,
+      "new_versions": 3,
       "excluded_out_of_scope": 8,
       "quarantined": 0,
       "companies_stored": 8
@@ -77,21 +77,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "CH03",
-      "source_name": "Chalet Hotels",
-      "isin": "INE427F01016",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "EL01",
       "source_name": "Eris Lifesciences",
       "isin": "INE406M01024",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "TFS02",
-      "source_name": "Travel Food Services",
-      "isin": "INE103V01028",
+      "company_id": "CH03",
+      "source_name": "Chalet Hotels",
+      "isin": "INE427F01016",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -107,21 +101,27 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
+      "company_id": "TFS02",
+      "source_name": "Travel Food Services",
+      "isin": "INE103V01028",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
       "company_id": "IL06",
       "source_name": "Indegene",
       "isin": "INE065X01017",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "DCM02",
-      "source_name": "DCM Shriram",
-      "isin": "INE499A01024",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "NBH",
       "source_name": "Niva Bupa Health Insurance Company",
       "isin": "INE995S01015",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "DCM02",
+      "source_name": "DCM Shriram",
+      "isin": "INE499A01024",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -155,6 +155,12 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
+      "company_id": "ABL06",
+      "source_name": "Aditya Birla Lifestyle Brands",
+      "isin": "INE14LE01019",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
       "company_id": "SF35",
       "source_name": "SBFC Finance",
       "isin": "INE423Y01016",
@@ -164,12 +170,6 @@
       "company_id": "BJH",
       "source_name": "Blue Jet Healthcare",
       "isin": "INE0KBH01020",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
-      "company_id": "ABL06",
-      "source_name": "Aditya Birla Lifestyle Brands",
-      "isin": "INE14LE01019",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -250,12 +250,12 @@
   ],
   "coverage": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 306,
-    "companies_with_reported_comparison": 279,
-    "companies_with_upcoming_forecast": 27,
-    "companies_with_nonmissing_estimate": 306,
-    "companies_without_data_this_run": 195
+    "companies_with_data_this_run": 313,
+    "companies_with_reported_comparison": 283,
+    "companies_with_upcoming_forecast": 30,
+    "companies_with_nonmissing_estimate": 313,
+    "companies_without_data_this_run": 188
   },
-  "finished_at_utc": "2026-11-10T10:56:11.519776+00:00",
-  "stored_metric_observations": 864
+  "finished_at_utc": "2026-11-11T10:32:10.625035+00:00",
+  "stored_metric_observations": 879
 }
