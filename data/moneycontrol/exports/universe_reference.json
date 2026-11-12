@@ -26,10 +26,10 @@
       "source_name": "Leela Palaces Hotels & Resorts"
     },
     {
-      "company_id": "P",
-      "isin": "INE182A01018",
+      "company_id": "CH03",
+      "isin": "INE427F01016",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Pfizer"
+      "source_name": "Chalet Hotels"
     },
     {
       "company_id": "EL01",
@@ -38,16 +38,16 @@
       "source_name": "Eris Lifesciences"
     },
     {
-      "company_id": "CH03",
-      "isin": "INE427F01016",
+      "company_id": "P",
+      "isin": "INE182A01018",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Chalet Hotels"
+      "source_name": "Pfizer"
     },
     {
-      "company_id": "HSA01",
-      "isin": "INE462A01022",
+      "company_id": "IL06",
+      "isin": "INE065X01017",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Bayer CropScience"
+      "source_name": "Indegene"
     },
     {
       "company_id": "VOC",
@@ -56,16 +56,16 @@
       "source_name": "Jubilant Pharmova"
     },
     {
+      "company_id": "HSA01",
+      "isin": "INE462A01022",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Bayer CropScience"
+    },
+    {
       "company_id": "TFS02",
       "isin": "INE103V01028",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Travel Food Services"
-    },
-    {
-      "company_id": "IL06",
-      "isin": "INE065X01017",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Indegene"
     },
     {
       "company_id": "NBH",
@@ -110,16 +110,16 @@
       "source_name": "Blue Dart Express"
     },
     {
-      "company_id": "ABL06",
-      "isin": "INE14LE01019",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Aditya Birla Lifestyle Brands"
-    },
-    {
       "company_id": "SF35",
       "isin": "INE423Y01016",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "SBFC Finance"
+    },
+    {
+      "company_id": "ABL06",
+      "isin": "INE14LE01019",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Aditya Birla Lifestyle Brands"
     },
     {
       "company_id": "BJH",
@@ -170,7 +170,7 @@
       "source_name": "Latent View Analytics"
     }
   ],
-  "fetched_at": "2026-11-11T10:25:01.132775+00:00",
+  "fetched_at": "2026-11-12T10:41:54.748745+00:00",
   "identifiers": {
     "A06": {
       "company_name": "Atul Ltd.",

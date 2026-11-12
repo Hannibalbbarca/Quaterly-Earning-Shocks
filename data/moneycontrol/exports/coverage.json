@@ -1,13 +1,13 @@
 {
-  "run_id": "aa071d32c54642de9cc55d7dce645a1c",
-  "membership_reference_collected_at": "2026-11-11T10:25:01.132775+00:00",
+  "run_id": "006aa006917f47439c0efefcbbe17257",
+  "membership_reference_collected_at": "2026-11-12T10:41:54.748745+00:00",
   "summary": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 313,
-    "companies_with_reported_comparison": 283,
-    "companies_with_upcoming_forecast": 30,
-    "companies_with_nonmissing_estimate": 313,
-    "companies_without_data_this_run": 188
+    "companies_with_data_this_run": 314,
+    "companies_with_reported_comparison": 287,
+    "companies_with_upcoming_forecast": 27,
+    "companies_with_nonmissing_estimate": 314,
+    "companies_without_data_this_run": 187
   },
   "note": "No card in these estimate feeds does not establish that a company has not released results. Missing analyst coverage is not filled in.",
   "records": [
@@ -3225,11 +3225,13 @@
       "isin": "INE382Z01011",
       "industry": "Capital Goods",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -7345,11 +7347,13 @@
       "isin": "INE245A01021",
       "industry": "Power",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -7603,13 +7607,19 @@
       "company_name": "Titagarh Rail Systems Ltd.",
       "isin": "INE615H01020",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "TITAN",
@@ -7748,11 +7758,13 @@
       "isin": "INE152M01016",
       "industry": "Capital Goods",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
