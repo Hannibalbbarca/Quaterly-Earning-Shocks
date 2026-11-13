@@ -1,13 +1,13 @@
 {
-  "run_id": "006aa006917f47439c0efefcbbe17257",
-  "membership_reference_collected_at": "2026-11-12T10:41:54.748745+00:00",
+  "run_id": "2d9e8406fd7e44c883a2c14bd576b175",
+  "membership_reference_collected_at": "2026-11-13T10:37:27.630439+00:00",
   "summary": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 314,
-    "companies_with_reported_comparison": 287,
-    "companies_with_upcoming_forecast": 27,
-    "companies_with_nonmissing_estimate": 314,
-    "companies_without_data_this_run": 187
+    "companies_with_data_this_run": 310,
+    "companies_with_reported_comparison": 294,
+    "companies_with_upcoming_forecast": 16,
+    "companies_with_nonmissing_estimate": 310,
+    "companies_without_data_this_run": 191
   },
   "note": "No card in these estimate feeds does not establish that a company has not released results. Missing analyst coverage is not filled in.",
   "records": [
@@ -492,11 +492,13 @@
       "isin": "INE540L01014",
       "industry": "Healthcare",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -508,17 +510,13 @@
       "company_name": "Amber Enterprises India Ltd.",
       "isin": "INE371P01015",
       "industry": "Consumer Durables",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "AMBUJACEM",
@@ -1163,11 +1161,13 @@
       "isin": "INE171Z01026",
       "industry": "Capital Goods",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -1573,11 +1573,13 @@
       "isin": "INE475E01026",
       "industry": "Healthcare",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -2164,19 +2166,13 @@
       "company_name": "Cummins India Ltd.",
       "isin": "INE298A01020",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
-      "reported_comparison_card": true,
+      "seen_in_latest_run": false,
+      "reported_comparison_card": false,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "eps",
-        "net_profit",
-        "revenue"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "CUPID",
@@ -3263,11 +3259,13 @@
       "isin": "INE066F01020",
       "industry": "Capital Goods",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -3471,13 +3469,19 @@
       "company_name": "Hindustan Copper Ltd.",
       "isin": "INE531E01026",
       "industry": "Metals & Mining",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "HINDPETRO",
@@ -3708,17 +3712,13 @@
       "company_name": "Vodafone Idea Ltd.",
       "isin": "INE669E01016",
       "industry": "Telecommunication",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "IDFCFIRSTB",
@@ -4130,17 +4130,13 @@
       "company_name": "Indian Railway Catering And Tourism Corporation Ltd.",
       "isin": "INE335Y01020",
       "industry": "Consumer Services",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "IREDA",
@@ -5113,17 +5109,13 @@
       "company_name": "Manappuram Finance Ltd.",
       "isin": "INE522D01027",
       "industry": "Financial Services",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "MANKIND",
@@ -5685,17 +5677,13 @@
       "company_name": "NMDC Ltd.",
       "isin": "INE584A01023",
       "industry": "Metals & Mining",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "NSLNISP",
@@ -5837,11 +5825,13 @@
       "isin": "INE274J01014",
       "industry": "Oil Gas & Consumable Fuels",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -5854,11 +5844,13 @@
       "isin": "INE0LXG01040",
       "industry": "Automobile and Auto Components",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -5915,13 +5907,19 @@
       "company_name": "Page Industries Ltd.",
       "isin": "INE761H01022",
       "industry": "Textiles",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "PARADEEP",
@@ -5941,13 +5939,17 @@
       "company_name": "Patanjali Foods Ltd.",
       "isin": "INE619A01035",
       "industry": "Fast Moving Consumer Goods",
-      "seen_in_latest_run": false,
+      "seen_in_latest_run": true,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "upcoming_forecast_card": true,
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "net_profit"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "PAYTM",
@@ -6279,17 +6281,13 @@
       "company_name": "Hitachi Energy India Ltd.",
       "isin": "INE07Y701011",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "PPLPHARMA",

@@ -26,16 +26,16 @@
       "source_name": "Leela Palaces Hotels & Resorts"
     },
     {
-      "company_id": "CH03",
-      "isin": "INE427F01016",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Chalet Hotels"
-    },
-    {
       "company_id": "EL01",
       "isin": "INE406M01024",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Eris Lifesciences"
+    },
+    {
+      "company_id": "CH03",
+      "isin": "INE427F01016",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Chalet Hotels"
     },
     {
       "company_id": "P",
@@ -50,10 +50,10 @@
       "source_name": "Indegene"
     },
     {
-      "company_id": "VOC",
-      "isin": "INE700A01033",
+      "company_id": "TFS02",
+      "isin": "INE103V01028",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Jubilant Pharmova"
+      "source_name": "Travel Food Services"
     },
     {
       "company_id": "HSA01",
@@ -62,10 +62,10 @@
       "source_name": "Bayer CropScience"
     },
     {
-      "company_id": "TFS02",
-      "isin": "INE103V01028",
+      "company_id": "VOC",
+      "isin": "INE700A01033",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Travel Food Services"
+      "source_name": "Jubilant Pharmova"
     },
     {
       "company_id": "NBH",
@@ -152,16 +152,16 @@
       "source_name": "Newgen Software Technologies"
     },
     {
-      "company_id": "PFR",
-      "isin": "INE647O01011",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "Aditya Birla Fashion & Retail"
-    },
-    {
       "company_id": "CIS01",
       "isin": "INE0BV301023",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "C. E. Info Systems (MapmyIndia)"
+    },
+    {
+      "company_id": "PFR",
+      "isin": "INE647O01011",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "Aditya Birla Fashion & Retail"
     },
     {
       "company_id": "LVA",
@@ -170,7 +170,7 @@
       "source_name": "Latent View Analytics"
     }
   ],
-  "fetched_at": "2026-11-12T10:41:54.748745+00:00",
+  "fetched_at": "2026-11-13T10:37:27.630439+00:00",
   "identifiers": {
     "A06": {
       "company_name": "Atul Ltd.",

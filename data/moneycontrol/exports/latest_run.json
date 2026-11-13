@@ -1,41 +1,35 @@
 {
-  "run_id": "006aa006917f47439c0efefcbbe17257",
+  "run_id": "2d9e8406fd7e44c883a2c14bd576b175",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-12T10:41:54.156964+00:00",
-  "status": "success",
+  "started_at_utc": "2026-11-13T10:37:27.130281+00:00",
+  "status": "partial",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
       "pages": 24,
-      "source_cards": 494,
-      "metrics_stored": 861,
-      "new_versions": 25,
-      "excluded_out_of_scope": 621,
+      "source_cards": 503,
+      "metrics_stored": 882,
+      "new_versions": 34,
+      "excluded_out_of_scope": 627,
       "quarantined": 0,
-      "companies_stored": 287
+      "companies_stored": 294
     },
     {
       "feed": "high",
-      "status": "success",
-      "pages": 2,
-      "source_cards": 38,
-      "metrics_stored": 20,
-      "new_versions": 11,
-      "excluded_out_of_scope": 18,
-      "quarantined": 0,
-      "companies_stored": 20
+      "status": "error",
+      "error": "Source returned an invalid data document; raw response retained"
     },
     {
       "feed": "low",
       "status": "success",
       "pages": 1,
-      "source_cards": 15,
-      "metrics_stored": 7,
-      "new_versions": 2,
+      "source_cards": 14,
+      "metrics_stored": 6,
+      "new_versions": 5,
       "excluded_out_of_scope": 8,
       "quarantined": 0,
-      "companies_stored": 7
+      "companies_stored": 6
     }
   ],
   "errors": [],
@@ -71,15 +65,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "CH03",
-      "source_name": "Chalet Hotels",
-      "isin": "INE427F01016",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "EL01",
       "source_name": "Eris Lifesciences",
       "isin": "INE406M01024",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "CH03",
+      "source_name": "Chalet Hotels",
+      "isin": "INE427F01016",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -95,9 +89,9 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "VOC",
-      "source_name": "Jubilant Pharmova",
-      "isin": "INE700A01033",
+      "company_id": "TFS02",
+      "source_name": "Travel Food Services",
+      "isin": "INE103V01028",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -107,9 +101,9 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "TFS02",
-      "source_name": "Travel Food Services",
-      "isin": "INE103V01028",
+      "company_id": "VOC",
+      "source_name": "Jubilant Pharmova",
+      "isin": "INE700A01033",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -197,15 +191,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "PFR",
-      "source_name": "Aditya Birla Fashion & Retail",
-      "isin": "INE647O01011",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "CIS01",
       "source_name": "C. E. Info Systems (MapmyIndia)",
       "isin": "INE0BV301023",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "PFR",
+      "source_name": "Aditya Birla Fashion & Retail",
+      "isin": "INE647O01011",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -250,12 +244,12 @@
   ],
   "coverage": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 314,
-    "companies_with_reported_comparison": 287,
-    "companies_with_upcoming_forecast": 27,
-    "companies_with_nonmissing_estimate": 314,
-    "companies_without_data_this_run": 187
+    "companies_with_data_this_run": 310,
+    "companies_with_reported_comparison": 294,
+    "companies_with_upcoming_forecast": 16,
+    "companies_with_nonmissing_estimate": 310,
+    "companies_without_data_this_run": 191
   },
-  "finished_at_utc": "2026-11-12T10:49:21.647621+00:00",
-  "stored_metric_observations": 888
+  "finished_at_utc": "2026-11-13T10:44:43.337903+00:00",
+  "stored_metric_observations": 898
 }
