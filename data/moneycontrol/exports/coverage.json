@@ -1,13 +1,13 @@
 {
-  "run_id": "2d9e8406fd7e44c883a2c14bd576b175",
-  "membership_reference_collected_at": "2026-11-13T10:37:27.630439+00:00",
+  "run_id": "28276273952d4c0bb4899b50e6c3759a",
+  "membership_reference_collected_at": "2026-11-14T09:51:11.622798+00:00",
   "summary": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 310,
-    "companies_with_reported_comparison": 294,
-    "companies_with_upcoming_forecast": 16,
-    "companies_with_nonmissing_estimate": 310,
-    "companies_without_data_this_run": 191
+    "companies_with_data_this_run": 306,
+    "companies_with_reported_comparison": 302,
+    "companies_with_upcoming_forecast": 4,
+    "companies_with_nonmissing_estimate": 306,
+    "companies_without_data_this_run": 195
   },
   "note": "No card in these estimate feeds does not establish that a company has not released results. Missing analyst coverage is not filled in.",
   "records": [
@@ -86,17 +86,13 @@
       "company_name": "ABB India Ltd.",
       "isin": "INE117A01022",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "ABBOTINDIA",
@@ -510,13 +506,19 @@
       "company_name": "Amber Enterprises India Ltd.",
       "isin": "INE371P01015",
       "industry": "Consumer Durables",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "AMBUJACEM",
@@ -1198,17 +1200,13 @@
       "company_name": "Belrise Industries Ltd.",
       "isin": "INE894V01022",
       "industry": "Automobile and Auto Components",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "BEML",
@@ -2268,17 +2266,13 @@
       "company_name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
       "isin": "INE501A01019",
       "industry": "Chemicals",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "DEEPAKNTR",
@@ -2477,11 +2471,13 @@
       "isin": "INE066A01021",
       "industry": "Automobile and Auto Components",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -2506,13 +2502,19 @@
       "company_name": "EIH Ltd.",
       "isin": "INE230A01023",
       "industry": "Consumer Services",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "ELECON",
@@ -3712,13 +3714,19 @@
       "company_name": "Vodafone Idea Ltd.",
       "isin": "INE669E01016",
       "industry": "Telecommunication",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "IDFCFIRSTB",
@@ -4011,17 +4019,13 @@
       "company_name": "Inox Wind Ltd.",
       "isin": "INE066P01011",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "INTELLECT",
@@ -4519,17 +4523,13 @@
       "company_name": "Jupiter Wagons Ltd.",
       "isin": "INE209L01016",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "JYOTICNC",
@@ -5109,13 +5109,19 @@
       "company_name": "Manappuram Finance Ltd.",
       "isin": "INE522D01027",
       "industry": "Financial Services",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "MANKIND",
@@ -5455,17 +5461,13 @@
       "company_name": "NATCO Pharma Ltd.",
       "isin": "INE987B01026",
       "industry": "Healthcare",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "NATIONALUM",
@@ -5677,13 +5679,19 @@
       "company_name": "NMDC Ltd.",
       "isin": "INE584A01023",
       "industry": "Metals & Mining",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "NSLNISP",
@@ -6543,17 +6551,13 @@
       "company_name": "RHI MAGNESITA INDIA LTD.",
       "isin": "INE743M01012",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "RITES",
@@ -6631,17 +6635,13 @@
       "company_name": "Rail Vikas Nigam Ltd.",
       "isin": "INE415G01027",
       "industry": "Construction",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "SAGILITY",
@@ -7439,13 +7439,19 @@
       "company_name": "TD Power Systems Ltd.",
       "isin": "INE419M01035",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "TECHM",
@@ -7663,11 +7669,13 @@
       "isin": "INE155A01022",
       "industry": "Automobile and Auto Components",
       "seen_in_latest_run": true,
-      "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
+      "reported_comparison_card": true,
+      "upcoming_forecast_card": false,
       "has_nonmissing_estimate": true,
       "captured_metrics": [
-        "net_profit"
+        "eps",
+        "net_profit",
+        "revenue"
       ],
       "captured_periods": [
         "2026-09-30"
@@ -7940,17 +7948,13 @@
       "company_name": "Usha Martin Ltd.",
       "isin": "INE228A01035",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "UTIAMC",
@@ -8302,17 +8306,13 @@
       "company_name": "ZF Commercial Vehicle Control Systems India Ltd.",
       "isin": "INE342J01019",
       "industry": "Automobile and Auto Components",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "ZYDUSLIFE",
