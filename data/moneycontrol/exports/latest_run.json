@@ -1,41 +1,35 @@
 {
-  "run_id": "28276273952d4c0bb4899b50e6c3759a",
+  "run_id": "aa35075d1ea547acb8ecce7fdf246349",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-14T09:51:11.103873+00:00",
-  "status": "success",
+  "started_at_utc": "2026-11-15T10:27:11.052225+00:00",
+  "status": "partial",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
-      "pages": 25,
-      "source_cards": 520,
-      "metrics_stored": 906,
-      "new_versions": 26,
-      "excluded_out_of_scope": 654,
+      "pages": 26,
+      "source_cards": 542,
+      "metrics_stored": 930,
+      "new_versions": 27,
+      "excluded_out_of_scope": 696,
       "quarantined": 0,
-      "companies_stored": 302
+      "companies_stored": 310
     },
     {
       "feed": "high",
-      "status": "success",
-      "pages": 1,
-      "source_cards": 3,
-      "metrics_stored": 2,
-      "new_versions": 2,
-      "excluded_out_of_scope": 1,
-      "quarantined": 0,
-      "companies_stored": 2
+      "status": "error",
+      "error": "Source returned an invalid data document; raw response retained"
     },
     {
       "feed": "low",
       "status": "success",
       "pages": 1,
-      "source_cards": 5,
-      "metrics_stored": 2,
-      "new_versions": 2,
-      "excluded_out_of_scope": 3,
+      "source_cards": 1,
+      "metrics_stored": 0,
+      "new_versions": 0,
+      "excluded_out_of_scope": 1,
       "quarantined": 0,
-      "companies_stored": 2
+      "companies_stored": 0
     }
   ],
   "errors": [],
@@ -250,12 +244,12 @@
   ],
   "coverage": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 306,
-    "companies_with_reported_comparison": 302,
-    "companies_with_upcoming_forecast": 4,
-    "companies_with_nonmissing_estimate": 306,
-    "companies_without_data_this_run": 195
+    "companies_with_data_this_run": 310,
+    "companies_with_reported_comparison": 310,
+    "companies_with_upcoming_forecast": 0,
+    "companies_with_nonmissing_estimate": 310,
+    "companies_without_data_this_run": 191
   },
-  "finished_at_utc": "2026-11-14T09:58:59.729578+00:00",
-  "stored_metric_observations": 910
+  "finished_at_utc": "2026-11-15T10:34:47.795385+00:00",
+  "stored_metric_observations": 930
 }

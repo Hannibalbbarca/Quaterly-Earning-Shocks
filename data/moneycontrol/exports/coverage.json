@@ -1,13 +1,13 @@
 {
-  "run_id": "28276273952d4c0bb4899b50e6c3759a",
-  "membership_reference_collected_at": "2026-11-14T09:51:11.622798+00:00",
+  "run_id": "aa35075d1ea547acb8ecce7fdf246349",
+  "membership_reference_collected_at": "2026-11-15T10:27:11.393025+00:00",
   "summary": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 306,
-    "companies_with_reported_comparison": 302,
-    "companies_with_upcoming_forecast": 4,
-    "companies_with_nonmissing_estimate": 306,
-    "companies_without_data_this_run": 195
+    "companies_with_data_this_run": 310,
+    "companies_with_reported_comparison": 310,
+    "companies_with_upcoming_forecast": 0,
+    "companies_with_nonmissing_estimate": 310,
+    "companies_without_data_this_run": 191
   },
   "note": "No card in these estimate feeds does not establish that a company has not released results. Missing analyst coverage is not filled in.",
   "records": [
@@ -736,17 +736,13 @@
       "company_name": "Ashok Leyland Ltd.",
       "isin": "INE208A01029",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "ASIANPAINT",
@@ -2266,13 +2262,19 @@
       "company_name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
       "isin": "INE501A01019",
       "industry": "Chemicals",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "DEEPAKNTR",
@@ -2489,13 +2491,19 @@
       "company_name": "E.I.D. Parry (India) Ltd.",
       "isin": "INE126A01031",
       "industry": "Fast Moving Consumer Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "EIHOTEL",
@@ -2758,17 +2766,13 @@
       "company_name": "Brainbees Solutions Ltd.",
       "isin": "INE02RE01045",
       "industry": "Consumer Services",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "FIVESTAR",
@@ -3171,13 +3175,19 @@
       "company_name": "Grasim Industries Ltd.",
       "isin": "INE047A01021",
       "industry": "Construction Materials",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "GRAVITA",
@@ -4019,13 +4029,19 @@
       "company_name": "Inox Wind Ltd.",
       "isin": "INE066P01011",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "INTELLECT",
@@ -4523,13 +4539,19 @@
       "company_name": "Jupiter Wagons Ltd.",
       "isin": "INE209L01016",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "JYOTICNC",
@@ -4606,17 +4628,13 @@
       "company_name": "Kaynes Technology India Ltd.",
       "isin": "INE918Z01012",
       "industry": "Capital Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "KEC",
@@ -5461,13 +5479,19 @@
       "company_name": "NATCO Pharma Ltd.",
       "isin": "INE987B01026",
       "industry": "Healthcare",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "NATIONALUM",
@@ -5947,17 +5971,13 @@
       "company_name": "Patanjali Foods Ltd.",
       "isin": "INE619A01035",
       "industry": "Fast Moving Consumer Goods",
-      "seen_in_latest_run": true,
+      "seen_in_latest_run": false,
       "reported_comparison_card": false,
-      "upcoming_forecast_card": true,
-      "has_nonmissing_estimate": true,
-      "captured_metrics": [
-        "net_profit"
-      ],
-      "captured_periods": [
-        "2026-09-30"
-      ],
-      "availability": "CARD_CAPTURED_THIS_RUN"
+      "upcoming_forecast_card": false,
+      "has_nonmissing_estimate": false,
+      "captured_metrics": [],
+      "captured_periods": [],
+      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
     },
     {
       "nse_symbol": "PAYTM",
@@ -6551,13 +6571,19 @@
       "company_name": "RHI MAGNESITA INDIA LTD.",
       "isin": "INE743M01012",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "RITES",
@@ -7948,13 +7974,19 @@
       "company_name": "Usha Martin Ltd.",
       "isin": "INE228A01035",
       "industry": "Capital Goods",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "UTIAMC",
