@@ -1,7 +1,7 @@
 {
-  "run_id": "aa35075d1ea547acb8ecce7fdf246349",
+  "run_id": "e88c095185f8499f9ba94afa764a017c",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-15T10:27:11.052225+00:00",
+  "started_at_utc": "2026-11-16T10:42:27.295586+00:00",
   "status": "partial",
   "feeds": [
     {
@@ -10,7 +10,7 @@
       "pages": 26,
       "source_cards": 542,
       "metrics_stored": 930,
-      "new_versions": 27,
+      "new_versions": 6,
       "excluded_out_of_scope": 696,
       "quarantined": 0,
       "companies_stored": 310
@@ -95,15 +95,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "HSA01",
-      "source_name": "Bayer CropScience",
-      "isin": "INE462A01022",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "VOC",
       "source_name": "Jubilant Pharmova",
       "isin": "INE700A01033",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "HSA01",
+      "source_name": "Bayer CropScience",
+      "isin": "INE462A01022",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -119,12 +119,6 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "ICI",
-      "source_name": "JSW Dulux",
-      "isin": "INE133A01029",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "SP",
       "source_name": "Supreme Petrochem",
       "isin": "INE663A01033",
@@ -134,6 +128,12 @@
       "company_id": "GCI",
       "source_name": "Saregama India",
       "isin": "INE979A01025",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "ICI",
+      "source_name": "JSW Dulux",
+      "isin": "INE133A01029",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -250,6 +250,6 @@
     "companies_with_nonmissing_estimate": 310,
     "companies_without_data_this_run": 191
   },
-  "finished_at_utc": "2026-11-15T10:34:47.795385+00:00",
+  "finished_at_utc": "2026-11-16T10:49:41.851328+00:00",
   "stored_metric_observations": 930
 }
