@@ -1,7 +1,7 @@
 {
-  "run_id": "f4891f9d916c4ea88c7269317f0e9057",
+  "run_id": "9b0c90a10f4c43508361afd4e0dce576",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-18T11:12:40.589505+00:00",
+  "started_at_utc": "2026-11-19T11:12:07.178980+00:00",
   "status": "error",
   "feeds": [
     {
@@ -121,15 +121,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "ICI",
-      "source_name": "JSW Dulux",
-      "isin": "INE133A01029",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "BFI01",
       "source_name": "Bikaji Foods International",
       "isin": "INE00E101023",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "ICI",
+      "source_name": "JSW Dulux",
+      "isin": "INE133A01029",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -240,6 +240,6 @@
     "companies_with_nonmissing_estimate": 311,
     "companies_without_data_this_run": 190
   },
-  "finished_at_utc": "2026-11-18T11:20:23.066070+00:00",
+  "finished_at_utc": "2026-11-19T11:19:32.261355+00:00",
   "stored_metric_observations": 933
 }

@@ -92,16 +92,16 @@
       "source_name": "Saregama India"
     },
     {
-      "company_id": "ICI",
-      "isin": "INE133A01029",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
-      "source_name": "JSW Dulux"
-    },
-    {
       "company_id": "BFI01",
       "isin": "INE00E101023",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
       "source_name": "Bikaji Foods International"
+    },
+    {
+      "company_id": "ICI",
+      "isin": "INE133A01029",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP",
+      "source_name": "JSW Dulux"
     },
     {
       "company_id": "BDE",
@@ -170,7 +170,7 @@
       "source_name": "Latent View Analytics"
     }
   ],
-  "fetched_at": "2026-11-18T11:12:41.002923+00:00",
+  "fetched_at": "2026-11-19T11:12:07.652781+00:00",
   "identifiers": {
     "A06": {
       "company_name": "Atul Ltd.",
