@@ -1,7 +1,7 @@
 {
-  "run_id": "9b0c90a10f4c43508361afd4e0dce576",
+  "run_id": "b3717ce6aa9847a8a7f6453877eae414",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-19T11:12:07.178980+00:00",
+  "started_at_utc": "2026-11-20T10:57:56.947204+00:00",
   "status": "error",
   "feeds": [
     {
@@ -79,15 +79,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "TFS02",
-      "source_name": "Travel Food Services",
-      "isin": "INE103V01028",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "HSA01",
       "source_name": "Bayer CropScience",
       "isin": "INE462A01022",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "TFS02",
+      "source_name": "Travel Food Services",
+      "isin": "INE103V01028",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -97,15 +97,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "DCM02",
-      "source_name": "DCM Shriram",
-      "isin": "INE499A01024",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "NBH",
       "source_name": "Niva Bupa Health Insurance Company",
       "isin": "INE995S01015",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "DCM02",
+      "source_name": "DCM Shriram",
+      "isin": "INE499A01024",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -181,15 +181,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "CIS01",
-      "source_name": "C. E. Info Systems (MapmyIndia)",
-      "isin": "INE0BV301023",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "PFR",
       "source_name": "Aditya Birla Fashion & Retail",
       "isin": "INE647O01011",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "CIS01",
+      "source_name": "C. E. Info Systems (MapmyIndia)",
+      "isin": "INE0BV301023",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -240,6 +240,6 @@
     "companies_with_nonmissing_estimate": 311,
     "companies_without_data_this_run": 190
   },
-  "finished_at_utc": "2026-11-19T11:19:32.261355+00:00",
+  "finished_at_utc": "2026-11-20T11:05:18.212200+00:00",
   "stored_metric_observations": 933
 }
