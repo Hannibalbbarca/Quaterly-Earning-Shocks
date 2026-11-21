@@ -1,18 +1,30 @@
 {
-  "run_id": "b3717ce6aa9847a8a7f6453877eae414",
+  "run_id": "f4a7710613074156b5a5eeb8cf8e0ad2",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-20T10:57:56.947204+00:00",
-  "status": "error",
+  "started_at_utc": "2026-11-21T10:41:23.567918+00:00",
+  "status": "partial",
   "feeds": [
     {
       "feed": "actual",
-      "status": "error",
-      "error": "Source returned an invalid data document; raw response retained"
+      "status": "success",
+      "pages": 27,
+      "source_cards": 549,
+      "metrics_stored": 936,
+      "new_versions": 11,
+      "excluded_out_of_scope": 711,
+      "quarantined": 0,
+      "companies_stored": 312
     },
     {
       "feed": "high",
-      "status": "error",
-      "error": "Source returned an invalid data document; raw response retained"
+      "status": "success",
+      "pages": 1,
+      "source_cards": 1,
+      "metrics_stored": 1,
+      "new_versions": 1,
+      "excluded_out_of_scope": 0,
+      "quarantined": 0,
+      "companies_stored": 1
     },
     {
       "feed": "low",
@@ -20,9 +32,7 @@
       "error": "Source returned an invalid data document; raw response retained"
     }
   ],
-  "errors": [
-    "All feeds empty or failed; this is not a healthy zero-observation run"
-  ],
+  "errors": [],
   "official_members": 501,
   "reference_warnings": [
     "OFFICIAL_COMPONENT_COUNT_DIFFERS_FROM_INDEX_NAME"
@@ -234,12 +244,12 @@
   ],
   "coverage": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 311,
-    "companies_with_reported_comparison": 311,
-    "companies_with_upcoming_forecast": 0,
-    "companies_with_nonmissing_estimate": 311,
-    "companies_without_data_this_run": 190
+    "companies_with_data_this_run": 313,
+    "companies_with_reported_comparison": 312,
+    "companies_with_upcoming_forecast": 1,
+    "companies_with_nonmissing_estimate": 313,
+    "companies_without_data_this_run": 188
   },
-  "finished_at_utc": "2026-11-20T11:05:18.212200+00:00",
-  "stored_metric_observations": 933
+  "finished_at_utc": "2026-11-21T10:49:34.841197+00:00",
+  "stored_metric_observations": 937
 }
