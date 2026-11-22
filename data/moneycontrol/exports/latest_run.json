@@ -1,7 +1,7 @@
 {
-  "run_id": "f4a7710613074156b5a5eeb8cf8e0ad2",
+  "run_id": "24a86f9d302c43a19316afdd9a5d04ab",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-21T10:41:23.567918+00:00",
+  "started_at_utc": "2026-11-22T10:47:01.718153+00:00",
   "status": "partial",
   "feeds": [
     {
@@ -10,7 +10,7 @@
       "pages": 27,
       "source_cards": 549,
       "metrics_stored": 936,
-      "new_versions": 11,
+      "new_versions": 0,
       "excluded_out_of_scope": 711,
       "quarantined": 0,
       "companies_stored": 312
@@ -21,7 +21,7 @@
       "pages": 1,
       "source_cards": 1,
       "metrics_stored": 1,
-      "new_versions": 1,
+      "new_versions": 0,
       "excluded_out_of_scope": 0,
       "quarantined": 0,
       "companies_stored": 1
@@ -250,6 +250,6 @@
     "companies_with_nonmissing_estimate": 313,
     "companies_without_data_this_run": 188
   },
-  "finished_at_utc": "2026-11-21T10:49:34.841197+00:00",
+  "finished_at_utc": "2026-11-22T10:54:38.147704+00:00",
   "stored_metric_observations": 937
 }
