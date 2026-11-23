@@ -1,7 +1,7 @@
 {
-  "run_id": "24a86f9d302c43a19316afdd9a5d04ab",
+  "run_id": "c2b8bc2270984db2b6e72846caaf9438",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-22T10:47:01.718153+00:00",
+  "started_at_utc": "2026-11-23T11:53:12.846918+00:00",
   "status": "partial",
   "feeds": [
     {
@@ -65,15 +65,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "EL01",
-      "source_name": "Eris Lifesciences",
-      "isin": "INE406M01024",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "CH03",
       "source_name": "Chalet Hotels",
       "isin": "INE427F01016",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "EL01",
+      "source_name": "Eris Lifesciences",
+      "isin": "INE406M01024",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -95,15 +95,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "TFS02",
-      "source_name": "Travel Food Services",
-      "isin": "INE103V01028",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "VOC",
       "source_name": "Jubilant Pharmova",
       "isin": "INE700A01033",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "TFS02",
+      "source_name": "Travel Food Services",
+      "isin": "INE103V01028",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -125,15 +125,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "GCI",
-      "source_name": "Saregama India",
-      "isin": "INE979A01025",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "BFI01",
       "source_name": "Bikaji Foods International",
       "isin": "INE00E101023",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "GCI",
+      "source_name": "Saregama India",
+      "isin": "INE979A01025",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -250,6 +250,6 @@
     "companies_with_nonmissing_estimate": 313,
     "companies_without_data_this_run": 188
   },
-  "finished_at_utc": "2026-11-22T10:54:38.147704+00:00",
+  "finished_at_utc": "2026-11-23T12:00:57.073728+00:00",
   "stored_metric_observations": 937
 }
