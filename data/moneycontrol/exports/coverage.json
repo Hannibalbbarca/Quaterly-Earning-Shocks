@@ -1,13 +1,13 @@
 {
-  "run_id": "c2b8bc2270984db2b6e72846caaf9438",
-  "membership_reference_collected_at": "2026-11-23T11:53:13.808882+00:00",
+  "run_id": "e662f01cceaa42d8b9a54035719868e4",
+  "membership_reference_collected_at": "2026-11-24T13:20:05.422496+00:00",
   "summary": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 313,
-    "companies_with_reported_comparison": 312,
+    "companies_with_data_this_run": 314,
+    "companies_with_reported_comparison": 313,
     "companies_with_upcoming_forecast": 1,
-    "companies_with_nonmissing_estimate": 313,
-    "companies_without_data_this_run": 188
+    "companies_with_nonmissing_estimate": 314,
+    "companies_without_data_this_run": 187
   },
   "note": "No card in these estimate feeds does not establish that a company has not released results. Missing analyst coverage is not filled in.",
   "records": [
@@ -4600,13 +4600,19 @@
       "company_name": "Kalyan Jewellers India Ltd.",
       "isin": "INE303R01014",
       "industry": "Consumer Durables",
-      "seen_in_latest_run": false,
-      "reported_comparison_card": false,
+      "seen_in_latest_run": true,
+      "reported_comparison_card": true,
       "upcoming_forecast_card": false,
-      "has_nonmissing_estimate": false,
-      "captured_metrics": [],
-      "captured_periods": [],
-      "availability": "NO_CARD_IN_COLLECTED_ESTIMATE_FEEDS_THIS_RUN"
+      "has_nonmissing_estimate": true,
+      "captured_metrics": [
+        "eps",
+        "net_profit",
+        "revenue"
+      ],
+      "captured_periods": [
+        "2026-09-30"
+      ],
+      "availability": "CARD_CAPTURED_THIS_RUN"
     },
     {
       "nse_symbol": "KARURVYSYA",

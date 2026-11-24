@@ -1,19 +1,19 @@
 {
-  "run_id": "c2b8bc2270984db2b6e72846caaf9438",
+  "run_id": "e662f01cceaa42d8b9a54035719868e4",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-23T11:53:12.846918+00:00",
+  "started_at_utc": "2026-11-24T13:20:04.154487+00:00",
   "status": "partial",
   "feeds": [
     {
       "feed": "actual",
       "status": "success",
       "pages": 27,
-      "source_cards": 549,
-      "metrics_stored": 936,
-      "new_versions": 0,
+      "source_cards": 550,
+      "metrics_stored": 939,
+      "new_versions": 3,
       "excluded_out_of_scope": 711,
       "quarantined": 0,
-      "companies_stored": 312
+      "companies_stored": 313
     },
     {
       "feed": "high",
@@ -244,12 +244,12 @@
   ],
   "coverage": {
     "official_members_tracked": 501,
-    "companies_with_data_this_run": 313,
-    "companies_with_reported_comparison": 312,
+    "companies_with_data_this_run": 314,
+    "companies_with_reported_comparison": 313,
     "companies_with_upcoming_forecast": 1,
-    "companies_with_nonmissing_estimate": 313,
-    "companies_without_data_this_run": 188
+    "companies_with_nonmissing_estimate": 314,
+    "companies_without_data_this_run": 187
   },
-  "finished_at_utc": "2026-11-23T12:00:57.073728+00:00",
-  "stored_metric_observations": 937
+  "finished_at_utc": "2026-11-24T13:27:35.511893+00:00",
+  "stored_metric_observations": 940
 }
