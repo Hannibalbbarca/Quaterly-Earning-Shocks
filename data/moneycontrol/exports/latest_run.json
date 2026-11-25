@@ -1,7 +1,7 @@
 {
-  "run_id": "e662f01cceaa42d8b9a54035719868e4",
+  "run_id": "01ee1e018fe14b13919366579c2fb1d2",
   "scope": "current_nifty500",
-  "started_at_utc": "2026-11-24T13:20:04.154487+00:00",
+  "started_at_utc": "2026-11-25T12:12:36.924058+00:00",
   "status": "partial",
   "feeds": [
     {
@@ -10,7 +10,7 @@
       "pages": 27,
       "source_cards": 550,
       "metrics_stored": 939,
-      "new_versions": 3,
+      "new_versions": 0,
       "excluded_out_of_scope": 711,
       "quarantined": 0,
       "companies_stored": 313
@@ -21,7 +21,7 @@
       "pages": 1,
       "source_cards": 1,
       "metrics_stored": 1,
-      "new_versions": 0,
+      "new_versions": 1,
       "excluded_out_of_scope": 0,
       "quarantined": 0,
       "companies_stored": 1
@@ -95,15 +95,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "VOC",
-      "source_name": "Jubilant Pharmova",
-      "isin": "INE700A01033",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "TFS02",
       "source_name": "Travel Food Services",
       "isin": "INE103V01028",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "VOC",
+      "source_name": "Jubilant Pharmova",
+      "isin": "INE700A01033",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -119,21 +119,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "SP",
-      "source_name": "Supreme Petrochem",
-      "isin": "INE663A01033",
-      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
-    },
-    {
       "company_id": "BFI01",
       "source_name": "Bikaji Foods International",
       "isin": "INE00E101023",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "GCI",
-      "source_name": "Saregama India",
-      "isin": "INE979A01025",
+      "company_id": "SP",
+      "source_name": "Supreme Petrochem",
+      "isin": "INE663A01033",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -143,15 +137,15 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "BDE",
-      "source_name": "Blue Dart Express",
-      "isin": "INE233B01017",
+      "company_id": "GCI",
+      "source_name": "Saregama India",
+      "isin": "INE979A01025",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "SF35",
-      "source_name": "SBFC Finance",
-      "isin": "INE423Y01016",
+      "company_id": "BDE",
+      "source_name": "Blue Dart Express",
+      "isin": "INE233B01017",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -161,9 +155,9 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "BBT",
-      "source_name": "Bombay Burmah Trading Corporation",
-      "isin": "INE050A01025",
+      "company_id": "SF35",
+      "source_name": "SBFC Finance",
+      "isin": "INE423Y01016",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -173,15 +167,21 @@
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
-      "company_id": "SS42",
-      "source_name": "Sonata Software",
-      "isin": "INE269A01021",
+      "company_id": "BBT",
+      "source_name": "Bombay Burmah Trading Corporation",
+      "isin": "INE050A01025",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
       "company_id": "SFI05",
       "source_name": "Sapphire Foods India",
       "isin": "INE806T01020",
+      "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
+    },
+    {
+      "company_id": "SS42",
+      "source_name": "Sonata Software",
+      "isin": "INE269A01021",
       "reason": "NOT_IN_CURRENT_OFFICIAL_MEMBERSHIP"
     },
     {
@@ -250,6 +250,6 @@
     "companies_with_nonmissing_estimate": 314,
     "companies_without_data_this_run": 187
   },
-  "finished_at_utc": "2026-11-24T13:27:35.511893+00:00",
+  "finished_at_utc": "2026-11-25T12:20:10.015865+00:00",
   "stored_metric_observations": 940
 }
