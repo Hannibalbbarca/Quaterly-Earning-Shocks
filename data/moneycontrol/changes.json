@@ -1,63 +1,10 @@
 {
-  "run_id": "01ee1e018fe14b13919366579c2fb1d2",
-  "run_status": "partial",
-  "collected_at_utc": "2026-11-25T12:12:36.924058+00:00",
+  "run_id": "fc38e37caf0b4a9499c19a377518a957",
+  "run_status": "error",
+  "collected_at_utc": "2026-11-26T11:56:57.960285+00:00",
   "new_metric_versions": 0,
-  "revised_metric_versions": 1,
-  "unchanged_metric_versions": 939,
-  "records": [
-    {
-      "actual": null,
-      "company_id": "SEI11",
-      "company_name": "Siemens Energy ",
-      "displayed_values_surprise_pct": null,
-      "entity_key": "SEI11|N|Consolidated|2026-09-30|net_profit|upcoming_forecast",
-      "estimate": "501",
-      "estimate_asof": null,
-      "exchange": "N",
-      "financial_basis": "Consolidated",
-      "fiscal_quarter_source": "Q2 FY26-27",
-      "identifier_match_method": "exact_unique_company_name",
-      "industry": "Capital Goods",
-      "isin": "INE1NPP01017",
-      "membership_reference_collected_at": "2026-11-25T12:12:37.629948+00:00",
-      "metric": "net_profit",
-      "nse_symbol": "ENRIN",
-      "observation_kind": "upcoming_forecast",
-      "period_end": "2026-09-30",
-      "prior_year_actual": "359",
-      "quality_flags": [
-        "SOURCE_DISPLAY_PRECISION",
-        "ESTIMATE_ASOF_NOT_SUPPLIED",
-        "EARNINGS_ADJUSTMENT_BASIS_UNVERIFIED",
-        "SOURCE_EVENT_TIME_UNVERIFIED"
-      ],
-      "raw_metric_cells": [
-        "Net Profit",
-        "501",
-        "359",
-        "39"
-      ],
-      "source_date_kind": "DISPLAYED_DATE_NOT_VERIFIED_RELEASE_TIMESTAMP",
-      "source_displayed_event_date": "2026-11-25",
-      "source_estimated_yoy_growth_pct": "39",
-      "source_expectation_label": null,
-      "source_expectation_pct": null,
-      "source_label_metric": "NOT_SPECIFIED_DO_NOT_ASSUME_EPS",
-      "source_page": "https://www.moneycontrol.com/markets/earnings/estimates/",
-      "source_table_headers": [
-        "Q2 FY26-27",
-        "Estimates",
-        "Sep 25",
-        "Est Growth"
-      ],
-      "source_view": "high",
-      "timing_status": "SOURCE_EVENT_DATE_SAME_DAY_OR_PAST_TIMING_UNRESOLVED",
-      "unit": "INR_crore",
-      "universe": "NIFTY500_CURRENT_AT_REFERENCE_COLLECTION",
-      "validation_references": [],
-      "change_kind": "revised"
-    }
-  ],
+  "revised_metric_versions": 0,
+  "unchanged_metric_versions": 0,
+  "records": [],
   "note": "New means first observed by this collector. Revisions can include source metadata or classifications as well as changed values. Missing cards do not prove a company has not reported."
 }
