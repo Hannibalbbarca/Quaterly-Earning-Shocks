@@ -1,61 +1,10 @@
 {
-  "run_id": "8818a4f443624279973c0dbc7221aa0e",
+  "run_id": "adf5dbee1f2d4c51a0d7d5e8cc7c00bc",
   "run_status": "partial",
-  "collected_at_utc": "2026-11-27T11:49:40.924952+00:00",
+  "collected_at_utc": "2026-11-28T11:25:17.117644+00:00",
   "new_metric_versions": 0,
-  "revised_metric_versions": 1,
-  "unchanged_metric_versions": 938,
-  "records": [
-    {
-      "actual": "1113",
-      "company_id": "AIE01",
-      "company_name": "AIA Engineering",
-      "displayed_values_surprise_pct": "-8.168317",
-      "entity_key": "AIE01|N|Consolidated|2026-09-30|revenue|reported_comparison",
-      "estimate": "1212",
-      "estimate_asof": null,
-      "exchange": "N",
-      "financial_basis": "Consolidated",
-      "fiscal_quarter_source": "Q2 FY26-27",
-      "identifier_match_method": "exact_unique_company_name",
-      "industry": "Capital Goods",
-      "isin": "INE212H01026",
-      "membership_reference_collected_at": "2026-11-27T11:49:42.138038+00:00",
-      "metric": "revenue",
-      "nse_symbol": "AIAENG",
-      "observation_kind": "reported_comparison",
-      "period_end": "2026-09-30",
-      "prior_year_actual": null,
-      "quality_flags": [
-        "SOURCE_DISPLAY_PRECISION",
-        "ESTIMATE_ASOF_NOT_SUPPLIED",
-        "EARNINGS_ADJUSTMENT_BASIS_UNVERIFIED",
-        "SOURCE_EVENT_TIME_UNVERIFIED"
-      ],
-      "raw_metric_cells": [
-        "Revenue",
-        "1,113",
-        "1,212"
-      ],
-      "source_date_kind": "DISPLAYED_DATE_NOT_VERIFIED_RELEASE_TIMESTAMP",
-      "source_displayed_event_date": "2026-11-03",
-      "source_estimated_yoy_growth_pct": null,
-      "source_expectation_label": "Missed Expectations",
-      "source_expectation_pct": "-20.05",
-      "source_label_metric": "NOT_SPECIFIED_DO_NOT_ASSUME_EPS",
-      "source_page": "https://www.moneycontrol.com/markets/earnings/estimates/",
-      "source_table_headers": [
-        "Q2 FY26-27",
-        "Sep 26",
-        "Estimates"
-      ],
-      "source_view": "actual",
-      "timing_status": "POST_RESULT_COMPARISON_NOT_A_PRE_RELEASE_SNAPSHOT",
-      "unit": "INR_crore",
-      "universe": "NIFTY500_CURRENT_AT_REFERENCE_COLLECTION",
-      "validation_references": [],
-      "change_kind": "revised"
-    }
-  ],
+  "revised_metric_versions": 0,
+  "unchanged_metric_versions": 939,
+  "records": [],
   "note": "New means first observed by this collector. Revisions can include source metadata or classifications as well as changed values. Missing cards do not prove a company has not reported."
 }
